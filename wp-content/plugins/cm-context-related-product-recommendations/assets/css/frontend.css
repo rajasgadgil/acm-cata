@@ -1,0 +1,39 @@
+.cmcrpr_items_wrapper .cmcrpr_item_row{
+    display: inline-block;
+    vertical-align: top;
+    margin: 0.5%;
+}
+.cmcrpr_items_wrapper .cmcrpr_items_label {
+    font-size: 18px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.cmcrpr_items_wrapper .cmcrpr_item_row .cmcrpr_item_title{
+    text-align: center;
+    font-weight: 600;
+    font-size: 16px;
+    padding-top: 10px;
+}
+.cmcrpr_items_wrapper .cmcrpr_item_row .cmcrpr_items_label {
+    font-size: 18px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.cmcrpr_items_wrapper .cmcrpr_item_row .cmcrpr_item_description{
+    text-align: center;
+    font-size: 14px;
+    font-weight: 300;
+}
+.cmcrpr_items_wrapper .cmcrpr_item_row img{
+    max-width: 100%;
+    overflow: hidden;
+}
+.cmcrpr_items_wrapper.small .cmcrpr_item_row{
+    max-width: 11.5%;
+}
+.cmcrpr_items_wrapper.medium .cmcrpr_item_row{
+    max-width: 24%;
+}
+.cmcrpr_items_wrapper.big .cmcrpr_item_row{
+    max-width: 32.32%;
+}

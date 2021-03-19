@@ -1,0 +1,7 @@
+<wpml-config>  
+    <admin-texts>
+        <key name="br-cart_suggestion-options">
+            <key name="suggestions_title" />
+        </key>
+    </admin-texts> 
+</wpml-config>

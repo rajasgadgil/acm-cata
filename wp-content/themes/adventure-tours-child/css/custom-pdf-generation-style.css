@@ -1,0 +1,82 @@
+body{
+	font-size:12px;
+}
+.quote-info {
+    width: 100%;
+    display: block;
+}
+.quote-info-right,.contrat-location {
+    width: 65%;
+}
+.quote-info-right,.quote-info-left,.expiracy_date,.contrat-location{
+	display: inline-block;
+	float:left;
+}
+.quote-info-left,.expiracy_date {
+    width: 34%;
+}
+.quote-inner-content {
+    width: 100%;
+    max-width: 90%;
+    margin: 0 auto;
+}
+.from-address, .from-email-info {
+    width: 49%;
+    display: inline-block;
+	vertical-align: top;
+	    float: left;
+    
+}
+.from-info,.to-info {
+    width: 75%;
+    border: 4px solid #78c5ea;
+    margin-top: 15px;
+    padding: 2px;
+    height: 130px;  
+}
+table.quote_table {
+    width: 100%;
+}
+table.quote_table {
+    border-collapse: collapse;
+}
+table.quote_table tr th {
+    background: #78b7da;
+    color: #fff;
+	    padding: 8px;
+}
+div#Enquiry {
+    margin-top: 15px;
+}
+table.quote_table tr.sub-total {
+    background: #78b7da;
+    color: #fff;
+    padding: 8px;
+}
+table.opt_quote_table tr.sub-total{
+	background: #00fdff;
+    color: #fff;
+    padding: 8px;
+}
+table.opt_quote_table tr th {
+    background: #00fdff;
+    color: #fff;
+    padding: 8px;
+}
+table.opt_quote_table {
+    margin-top: 15px;
+    width: 100%;
+}
+tr.grand-total{
+	background: #011993;
+    color: #fff;
+    padding: 8px;
+    margin=top:15px;
+    color:#fff;
+}
+tr.sub-total td, tr.grand-total td{
+	color:#fff !important;
+}
+.footer-img {
+    text-align: center;
+}

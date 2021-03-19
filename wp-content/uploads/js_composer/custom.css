@@ -1,0 +1,21 @@
+#circle-apartirde { 
+    height: 40px;
+    width: 400px;
+    background: black;
+    padding: 2px;
+    margin: 60% -107% -60%;
+    font-weight: bold;
+    font-size:22px;
+    text-align:center;
+    color:white;
+}
+.rs-background-video-layer iframe {visibility:inherit !important; }
+.element.style{
+    visibility:inherit;
+}
+.rev_slider iframe{
+     visibility:visible;
+}
+
+.header-wrap .banner{background-color: black;}
+.header-wrap .banner{visibility:hidden;}

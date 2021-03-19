@@ -1,0 +1,2893 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Testimonials Showcase\n"
+"POT-Creation-Date: 2017-02-06 12:54+0100\n"
+"PO-Revision-Date: 2017-02-06 12:54+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ttshowcase.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: form/form-class.php:22 options.php:203
+msgid "Subtitle"
+msgstr ""
+
+#: form/form-class.php:23
+msgid "Subtitle input active"
+msgstr ""
+
+#: form/form-class.php:30
+msgid "URL field"
+msgstr ""
+
+#: form/form-class.php:31
+msgid "URL input field active"
+msgstr ""
+
+#: form/form-class.php:38
+msgid "Display Image Upload"
+msgstr ""
+
+#: form/form-class.php:39
+msgid "Display Image Upload option"
+msgstr ""
+
+#: form/form-class.php:47
+msgid "Display Title Option"
+msgstr ""
+
+#: form/form-class.php:48
+msgid "Display Review/testimonial title option"
+msgstr ""
+
+#: form/form-class.php:56
+msgid "Display Long Testimonial Field"
+msgstr ""
+
+#: form/form-class.php:57
+msgid "Display textarea for single page content (long testimonial)"
+msgstr ""
+
+#: form/form-class.php:65
+msgid "Display Star Rating"
+msgstr ""
+
+#: form/form-class.php:66
+msgid "Display Star Rating option"
+msgstr ""
+
+#: form/form-class.php:77
+msgid "Email Field"
+msgstr ""
+
+#: form/form-class.php:78
+msgid "Display Email Field"
+msgstr ""
+
+#: form/form-class.php:85
+msgid "Human Verification"
+msgstr ""
+
+#: form/form-class.php:86
+msgid ""
+"Display math problem to verify if visitor is human. It will not display if "
+"user is logged in"
+msgstr ""
+
+#: form/form-class.php:90
+msgid "Math Problem"
+msgstr ""
+
+#: form/form-class.php:91
+msgid "Letter Deciphering"
+msgstr ""
+
+#: form/form-class.php:98
+msgid "Recognise Logged Users"
+msgstr ""
+
+#: form/form-class.php:99
+msgid "If the user is logged, it will autofill email and name fields"
+msgstr ""
+
+#: form/form-class.php:107
+msgid "Only allow Logged Users"
+msgstr ""
+
+#: form/form-class.php:108
+msgid "The form will only display if the user is logged in"
+msgstr ""
+
+#: form/form-class.php:115
+msgid "Default Category"
+msgstr ""
+
+#: form/form-class.php:116
+msgid ""
+"Hidden field to set default category for entry. Useful for product or "
+"service reviews."
+msgstr ""
+
+#: form/form-class.php:120
+msgid "Do not use"
+msgstr ""
+
+#: form/form-class.php:122 options.php:1183 options.php:1224 options.php:1315
+msgid "[ Current Page Slug ]"
+msgstr ""
+
+#: form/form-class.php:123 options.php:1184 options.php:1225 options.php:1316
+msgid "[ Current Page ID ]"
+msgstr ""
+
+#: form/form-class.php:129
+msgid "Dispay category dropdown"
+msgstr ""
+
+#: form/form-class.php:130
+msgid ""
+"The form will display a category dropdown for the user to choose the "
+"category. If a default category is set, it will display initially selected."
+msgstr ""
+
+#: form/form-class.php:136
+msgid "Dispay parents only"
+msgstr ""
+
+#: form/form-class.php:137
+msgid "Display only parent categories"
+msgstr ""
+
+#: form/form-class.php:145
+msgid "Dispay custom Yes/No"
+msgstr ""
+
+#: form/form-class.php:146
+msgid "Will display the custom yes/no field"
+msgstr ""
+
+#: form/form-class.php:150
+msgid "Dropdown"
+msgstr ""
+
+#: form/form-class.php:151
+msgid "Checkbox"
+msgstr ""
+
+#: form/form-class.php:158 layouts/averagebox/layout.php:40
+msgid "Style"
+msgstr ""
+
+#: form/form-class.php:159
+msgid "Which style to adapt for the form"
+msgstr ""
+
+#: includes/class-cpt.php:74 includes/class-cpt.php:75
+#: includes/class-cpt.php:169
+msgid "Add New"
+msgstr ""
+
+#: includes/class-cpt.php:76 includes/class-cpt.php:167
+msgid "Edit"
+msgstr ""
+
+#: includes/class-cpt.php:77 includes/class-cpt.php:170
+msgid "New"
+msgstr ""
+
+#: includes/class-cpt.php:78 includes/class-cpt.php:164
+#: includes/utils-advanced.php:359 includes/utils-advanced.php:417
+#: layouts/grid/layout.php:1731 options.php:1369
+msgid "All"
+msgstr ""
+
+#: includes/class-cpt.php:79
+msgid "View"
+msgstr ""
+
+#: includes/class-cpt.php:80 includes/class-cpt.php:163 options.php:114
+msgid "Search"
+msgstr ""
+
+#: includes/class-cpt.php:81 includes/class-cpt.php:82
+msgid "No result found"
+msgstr ""
+
+#: includes/class-cpt.php:165 includes/class-cpt.php:166
+msgid "Parent"
+msgstr ""
+
+#: includes/class-cpt.php:168
+msgid "Update"
+msgstr ""
+
+#: includes/class-ordering.php:97
+msgid ""
+"To reposition an item, simply drag and drop the row by \"clicking and holding"
+"\" it anywhere (outside of the links and form controls) and moving it to its "
+"new position."
+msgstr ""
+
+#: includes/class-ordering.php:283
+msgid "Sort by Order"
+msgstr ""
+
+#: includes/class-ordering.php:288
+msgid "Drag & Drop Ordering Activated"
+msgstr ""
+
+#: includes/class-settings.php:175 options.php:1377
+msgid "Settings Updated"
+msgstr ""
+
+#: includes/class-shortcodes.php:165
+msgid "Saved Shortcodes"
+msgstr ""
+
+#: includes/class-shortcodes.php:170
+msgid "These will display in the Visual Composer options."
+msgstr ""
+
+#: includes/class-shortcodes.php:176
+msgid "Load"
+msgstr ""
+
+#: includes/class-shortcodes.php:176
+msgid "Are you sure you want to delete this entry?"
+msgstr ""
+
+#: includes/class-shortcodes.php:176
+msgid "Delete"
+msgstr ""
+
+#: includes/class-shortcodes.php:181
+msgid "Alias name already exists. Please use a diferent one"
+msgstr ""
+
+#: includes/class-shortcodes.php:213 includes/class-shortcodes.php:214
+#: options.php:1155 options.php:1156
+msgid "Shortcode Generator"
+msgstr ""
+
+#: includes/class-shortcodes.php:415
+msgid "Layouts"
+msgstr ""
+
+#: includes/class-shortcodes.php:711
+msgid ""
+"You can use the full shortcode above directly on your page, but if you "
+"prefer you can save it, giving it an Alias instead, so you have a shorter "
+"version of the shortcode that you can load and edit in the future. The Alias "
+"name should be short and unique."
+msgstr ""
+
+#: includes/class-shortcodes.php:712
+msgid "Save As:"
+msgstr ""
+
+#: includes/class-shortcodes.php:722
+msgid "Create New"
+msgstr ""
+
+#: includes/class-shortcodes.php:748
+msgid "Give it a short name"
+msgstr ""
+
+#: includes/class-shortcodes.php:750
+msgid "Save Shortcode Alias"
+msgstr ""
+
+#: includes/class-visual-composer.php:33
+msgid "Choose one of the previously saved shortcode Alias. <br> <a href='"
+msgstr ""
+
+#: includes/class-visual-composer.php:39
+msgid "Please select..."
+msgstr ""
+
+#: includes/class-visual-composer.php:58
+msgid "Looks like you don't have any saved shortcode Alias. <br> <a href='"
+msgstr ""
+
+#: includes/class-visual-composer.php:70
+msgid "Content"
+msgstr ""
+
+#: includes/class-visual-composer.php:77
+msgid "Saved shortcode to display"
+msgstr ""
+
+#: includes/class-widget.php:15
+msgid "Display saved Testimonials Layout"
+msgstr ""
+
+#: includes/class-widget.php:17 includes/layers-widget.php:17
+#: includes/layers-widget.php:41 includes/layers-widget.php:128 options.php:25
+#: options.php:60 ttshowcase.php:326
+msgid "Testimonials"
+msgstr ""
+
+#: includes/class-widget.php:91
+msgid "Layout to display:"
+msgstr ""
+
+#: includes/class-widget.php:110
+msgid ""
+"You can select the shortcode layouts previously saved using the Shortcode "
+"Generator."
+msgstr ""
+
+#: includes/class-widget.php:116
+msgid "Please create a layout shortcode first"
+msgstr ""
+
+#: includes/layers-widget.php:24
+msgid "Display a previously saved testimonial layout"
+msgstr ""
+
+#: includes/layers-widget.php:142
+msgid "Enter title here"
+msgstr ""
+
+#: includes/layers-widget.php:155
+msgid "Short Excerpt"
+msgstr ""
+
+#: includes/layers-widget.php:167
+msgid "-- Please Select --"
+msgstr ""
+
+#: includes/layers-widget.php:190
+msgid "There are no maps to display. Please create a map first."
+msgstr ""
+
+#: includes/layers-widget.php:193
+msgid "Add New Map"
+msgstr ""
+
+#: includes/layers-widget.php:204
+msgid "Show Testimonials Layout"
+msgstr ""
+
+#: includes/utils-advanced.php:461
+msgid "AND"
+msgstr ""
+
+#: includes/utils-advanced.php:462
+msgid "OR"
+msgstr ""
+
+#: includes/utils-advanced.php:569 options.php:1363
+msgid "Order Attribute"
+msgstr ""
+
+#: includes/utils-advanced.php:570 options.php:1364
+msgid "ID"
+msgstr ""
+
+#: includes/utils-advanced.php:571 options.php:1366
+msgid "Random"
+msgstr ""
+
+#: includes/utils-advanced.php:572 options.php:1365
+msgid "Title"
+msgstr ""
+
+#: includes/utils-advanced.php:573 layouts/averagebox/layout.php:298
+#: layouts/grid/layout.php:528 layouts/slider/layout.php:610
+msgid "Date"
+msgstr ""
+
+#: includes/utils-advanced.php:575 options.php:240 options.php:1385
+msgid "Rating"
+msgstr ""
+
+#: includes/utils-advanced.php:590 options.php:1367
+msgid "Ascending"
+msgstr ""
+
+#: includes/utils-advanced.php:591 options.php:1368
+msgid "Descending"
+msgstr ""
+
+#: includes/utils-advanced.php:612 options.php:1371
+msgid "Published"
+msgstr ""
+
+#: includes/utils-advanced.php:613 options.php:1372
+msgid "Pending Review"
+msgstr ""
+
+#: includes/utils-advanced.php:614 options.php:1373
+msgid "in Draft"
+msgstr ""
+
+#: includes/utils-advanced.php:615 options.php:1374
+msgid "Private"
+msgstr ""
+
+#: includes/utils-advanced.php:638
+msgid "Do Not Use"
+msgstr ""
+
+#: includes/utils-advanced.php:639
+msgid "Use Pagination"
+msgstr ""
+
+#: includes/utils-advanced.php:640
+msgid "Use Pagination (Short)"
+msgstr ""
+
+#: includes/utils-advanced.php:663 options.php:1375
+msgid "ASC"
+msgstr ""
+
+#: includes/utils-advanced.php:664 options.php:1376
+msgid "DESC"
+msgstr ""
+
+#: includes/utils-advanced.php:766 includes/utils-advanced.php:822
+msgid "Default Avatar"
+msgstr ""
+
+#: includes/utils-advanced.php:783
+msgid "No Avatar"
+msgstr ""
+
+#: includes/utils-advanced.php:804
+msgid "Avatar"
+msgstr ""
+
+#: layouts/averagebox/layout.php:52 layouts/grid/layout.php:188
+#: layouts/slider/layout.php:299
+msgid "Theme"
+msgstr ""
+
+#: layouts/averagebox/layout.php:53
+msgid "Aspect of Box"
+msgstr ""
+
+#: layouts/averagebox/layout.php:57
+msgid "Simple Box"
+msgstr ""
+
+#: layouts/averagebox/layout.php:58
+msgid "Big Stars Box"
+msgstr ""
+
+#: layouts/averagebox/layout.php:59 layouts/grid/layout.php:198
+#: layouts/slider/layout.php:235 layouts/slider/layout.php:309 options.php:1370
+msgid "None"
+msgstr ""
+
+#: layouts/averagebox/layout.php:68 layouts/grid/layout.php:247
+#: layouts/slider/layout.php:345
+msgid "What do display"
+msgstr ""
+
+#: layouts/averagebox/layout.php:81
+msgid "Show Stars"
+msgstr ""
+
+#: layouts/averagebox/layout.php:82
+msgid "Display Star Icons"
+msgstr ""
+
+#: layouts/averagebox/layout.php:89
+msgid "Use Half Stars"
+msgstr ""
+
+#: layouts/averagebox/layout.php:90
+msgid "Display Half Stars"
+msgstr ""
+
+#: layouts/averagebox/layout.php:97
+msgid "Stars Label"
+msgstr ""
+
+#: layouts/averagebox/layout.php:98
+msgid "Text to display before the Star Icons"
+msgstr ""
+
+#: layouts/averagebox/layout.php:105
+msgid "Show Average"
+msgstr ""
+
+#: layouts/averagebox/layout.php:106
+msgid "Display average value of ratings"
+msgstr ""
+
+#: layouts/averagebox/layout.php:113
+msgid "Average Label"
+msgstr ""
+
+#: layouts/averagebox/layout.php:114
+msgid "Text to display before the Average"
+msgstr ""
+
+#: layouts/averagebox/layout.php:121
+msgid "Show Total Ratings"
+msgstr ""
+
+#: layouts/averagebox/layout.php:122
+msgid "Display number of total ratings"
+msgstr ""
+
+#: layouts/averagebox/layout.php:129
+msgid "Total Label"
+msgstr ""
+
+#: layouts/averagebox/layout.php:130
+msgid "Text to display before the Total Ratings value"
+msgstr ""
+
+#: layouts/averagebox/layout.php:137
+msgid "Total Label After"
+msgstr ""
+
+#: layouts/averagebox/layout.php:138
+msgid "Text to display after the Total Ratings value"
+msgstr ""
+
+#: layouts/averagebox/layout.php:145
+msgid "Total Label After (singular)"
+msgstr ""
+
+#: layouts/averagebox/layout.php:146
+msgid ""
+"Text to display after the Total Ratings value when there's only one rating"
+msgstr ""
+
+#: layouts/averagebox/layout.php:153
+msgid "Text for empty average"
+msgstr ""
+
+#: layouts/averagebox/layout.php:154
+msgid "Text to display when there are no ratings to calculate average"
+msgstr ""
+
+#: layouts/averagebox/layout.php:161
+msgid "Consider Empty Ratings"
+msgstr ""
+
+#: layouts/averagebox/layout.php:162
+msgid "Count ratings with 0 rating (rating not submitted)"
+msgstr ""
+
+#: layouts/averagebox/layout.php:169
+msgid "Display Ratings Breakdown"
+msgstr ""
+
+#: layouts/averagebox/layout.php:170
+msgid "If enabled a graphic will display with the ratings breakdown"
+msgstr ""
+
+#: layouts/averagebox/layout.php:177
+msgid "Breakdown %"
+msgstr ""
+
+#: layouts/averagebox/layout.php:178
+msgid "Display percentage value together with ratings breakdown"
+msgstr ""
+
+#: layouts/averagebox/layout.php:191 layouts/averagebox/layout.php:207
+#: layouts/grid/layout.php:441 layouts/grid/layout.php:453
+#: layouts/slider/layout.php:523 layouts/slider/layout.php:535 options.php:577
+msgid "Rich Snippets"
+msgstr ""
+
+#: layouts/averagebox/layout.php:208 layouts/grid/layout.php:454
+#: layouts/slider/layout.php:536
+msgid "Keep the default settings or override them for this specific shortcode"
+msgstr ""
+
+#: layouts/averagebox/layout.php:212 layouts/grid/layout.php:458
+#: layouts/slider/layout.php:540
+msgid "Default Settings"
+msgstr ""
+
+#: layouts/averagebox/layout.php:213 layouts/grid/layout.php:459
+#: layouts/slider/layout.php:541
+msgid "Do not include meta data"
+msgstr ""
+
+#: layouts/averagebox/layout.php:214 layouts/grid/layout.php:460
+#: layouts/slider/layout.php:542
+msgid "Include meta data"
+msgstr ""
+
+#: layouts/averagebox/layout.php:219 layouts/grid/layout.php:465
+#: layouts/slider/layout.php:547
+msgid "Product being reviewed"
+msgstr ""
+
+#: layouts/averagebox/layout.php:220 layouts/grid/layout.php:466
+#: layouts/slider/layout.php:548
+msgid ""
+"Custom Product Name for Rich Snippets. Will only be used if Rich Snippets "
+"are active for shortcodes. Leave blank to use default Product set in the "
+"settings page."
+msgstr ""
+
+#: layouts/averagebox/layout.php:228 layouts/grid/layout.php:473
+#: layouts/slider/layout.php:555
+msgid "Image URL"
+msgstr ""
+
+#: layouts/averagebox/layout.php:229 layouts/grid/layout.php:474
+#: layouts/slider/layout.php:556
+msgid "The URL of the product photo."
+msgstr ""
+
+#: layouts/averagebox/layout.php:236 layouts/grid/layout.php:481
+#: layouts/slider/layout.php:563
+msgid "Product Description"
+msgstr ""
+
+#: layouts/averagebox/layout.php:237 layouts/grid/layout.php:482
+#: layouts/slider/layout.php:564
+msgid "Custom Product Description for Rich Snippets."
+msgstr ""
+
+#: layouts/averagebox/layout.php:247
+msgid "Property to use"
+msgstr ""
+
+#: layouts/averagebox/layout.php:248
+msgid ""
+"Which meta property to use: ratingCount when using this shortcode alone "
+"(default) or force to use the reviewCount, which needs to have a layout "
+"shortcode on the same page."
+msgstr ""
+
+#: layouts/averagebox/layout.php:252
+msgid "ratingCount (Default)"
+msgstr ""
+
+#: layouts/averagebox/layout.php:253
+msgid "reviewCount"
+msgstr ""
+
+#: layouts/averagebox/layout.php:258
+msgid "Schema.org to use"
+msgstr ""
+
+#: layouts/averagebox/layout.php:259 layouts/grid/layout.php:490
+#: layouts/slider/layout.php:572
+msgid "If you wish to use another type of schema, insert the URL here."
+msgstr ""
+
+#: layouts/averagebox/layout.php:272 layouts/grid/layout.php:502
+#: layouts/slider/layout.php:584
+msgid "Rich Snippets - Offer Metadata"
+msgstr ""
+
+#: layouts/averagebox/layout.php:284 layouts/grid/layout.php:514
+#: layouts/slider/layout.php:596
+msgid "Price"
+msgstr ""
+
+#: layouts/averagebox/layout.php:285 layouts/grid/layout.php:515
+#: layouts/slider/layout.php:597
+msgid "Number or text with the price for the product being reviewed."
+msgstr ""
+
+#: layouts/averagebox/layout.php:291 layouts/grid/layout.php:521
+#: layouts/slider/layout.php:603
+msgid "Currency"
+msgstr ""
+
+#: layouts/averagebox/layout.php:292 layouts/grid/layout.php:522
+#: layouts/slider/layout.php:604
+msgid "The currency (in 3-letter ISO 4217 format) of the price"
+msgstr ""
+
+#: layouts/averagebox/layout.php:299 layouts/grid/layout.php:529
+#: layouts/slider/layout.php:611
+msgid ""
+"The date (in ISO 8601 date format) after which the price will no longer be "
+"available."
+msgstr ""
+
+#: layouts/averagebox/layout.php:305 layouts/grid/layout.php:535
+#: layouts/slider/layout.php:617
+msgid "Availability"
+msgstr ""
+
+#: layouts/averagebox/layout.php:310 layouts/grid/layout.php:540
+#: layouts/slider/layout.php:622
+msgid "Empty (Default)"
+msgstr ""
+
+#: layouts/averagebox/layout.php:311 layouts/grid/layout.php:541
+#: layouts/slider/layout.php:623
+msgid "In Stock"
+msgstr ""
+
+#: layouts/averagebox/layout.php:312 layouts/grid/layout.php:542
+#: layouts/slider/layout.php:624
+msgid "Out of Stock"
+msgstr ""
+
+#: layouts/averagebox/layout.php:313 layouts/grid/layout.php:543
+#: layouts/slider/layout.php:625
+msgid "Sold Out"
+msgstr ""
+
+#: layouts/averagebox/layout.php:314 layouts/grid/layout.php:544
+#: layouts/slider/layout.php:626
+msgid "Pre-order"
+msgstr ""
+
+#: layouts/averagebox/layout.php:315 layouts/grid/layout.php:545
+#: layouts/slider/layout.php:627
+msgid "Online Only"
+msgstr ""
+
+#: layouts/averagebox/layout.php:316 layouts/grid/layout.php:546
+#: layouts/slider/layout.php:628
+msgid "Limited Availability"
+msgstr ""
+
+#: layouts/averagebox/layout.php:317 layouts/grid/layout.php:547
+#: layouts/slider/layout.php:629
+msgid "In Store Only"
+msgstr ""
+
+#: layouts/averagebox/layout.php:318 layouts/grid/layout.php:548
+#: layouts/slider/layout.php:630
+msgid "Discontinued"
+msgstr ""
+
+#: layouts/grid/layout.php:47
+msgid "Grid Layout"
+msgstr ""
+
+#: layouts/grid/layout.php:48
+msgid ""
+"These options apply only to the Grid layout. Some options are specific to "
+"some layout themes. Read the description to understand what the field "
+"information will be used on."
+msgstr ""
+
+#: layouts/grid/layout.php:52 layouts/slider/layout.php:53
+msgid "General Settings"
+msgstr ""
+
+#: layouts/grid/layout.php:57 layouts/slider/layout.php:58
+msgid "Display Empty Entries"
+msgstr ""
+
+#: layouts/grid/layout.php:58 layouts/slider/layout.php:59
+msgid ""
+"If enabled, entries with empty testimonial text, but with other data will "
+"also display"
+msgstr ""
+
+#: layouts/grid/layout.php:64
+msgid "Use Masonry Alignment"
+msgstr ""
+
+#: layouts/grid/layout.php:65
+msgid "Vertical align entries in masonry style"
+msgstr ""
+
+#: layouts/grid/layout.php:72 layouts/slider/layout.php:64
+msgid "Italic by Default"
+msgstr ""
+
+#: layouts/grid/layout.php:73 layouts/slider/layout.php:65
+msgid "Default all text of Testimonial to <i>Italic</i>"
+msgstr ""
+
+#: layouts/grid/layout.php:79 layouts/slider/layout.php:71
+msgid "Read More Label"
+msgstr ""
+
+#: layouts/grid/layout.php:80 layouts/slider/layout.php:72
+msgid "Text to display in the Read More link to single page of entry."
+msgstr ""
+
+#: layouts/grid/layout.php:83 layouts/grid/layout.php:702
+#: layouts/slider/layout.php:75 layouts/slider/layout.php:757
+msgid "Read More..."
+msgstr ""
+
+#: layouts/grid/layout.php:87 layouts/slider/layout.php:78
+msgid "Use default image"
+msgstr ""
+
+#: layouts/grid/layout.php:88 layouts/slider/layout.php:79
+msgid "Display default image (set below) when there is no image present"
+msgstr ""
+
+#: layouts/grid/layout.php:95 layouts/slider/layout.php:86
+msgid "Default Image"
+msgstr ""
+
+#: layouts/grid/layout.php:96
+msgid ""
+"Image to display when there is not featured image set (if option above is "
+"active). <br>You can use the default:"
+msgstr ""
+
+#: layouts/grid/layout.php:102 layouts/slider/layout.php:93
+msgid "Category/Group Prefix"
+msgstr ""
+
+#: layouts/grid/layout.php:103 layouts/slider/layout.php:94
+msgid ""
+"Text to display before the category on the layout, if chosen to be "
+"displayed. Tip: If category description includes a URL, the category will "
+"link to that URL."
+msgstr ""
+
+#: layouts/grid/layout.php:106 layouts/slider/layout.php:97
+msgid "Posted on:"
+msgstr ""
+
+#: layouts/grid/layout.php:110 layouts/slider/layout.php:101
+msgid "Speech Bubble Themes Color Options"
+msgstr ""
+
+#: layouts/grid/layout.php:116 layouts/slider/layout.php:107
+msgid "Speech Bubble Background Color"
+msgstr ""
+
+#: layouts/grid/layout.php:117 layouts/grid/layout.php:135
+#: layouts/slider/layout.php:108 layouts/slider/layout.php:126
+msgid "Main color for the text box"
+msgstr ""
+
+#: layouts/grid/layout.php:122
+msgid "Text Color"
+msgstr ""
+
+#: layouts/grid/layout.php:123 layouts/slider/layout.php:114
+msgid "Color of the text inside the speech bubble"
+msgstr ""
+
+#: layouts/grid/layout.php:129 layouts/slider/layout.php:120
+msgid "Card Box Theme Color Options"
+msgstr ""
+
+#: layouts/grid/layout.php:134 layouts/slider/layout.php:125
+msgid "Main Background Color"
+msgstr ""
+
+#: layouts/grid/layout.php:140 layouts/slider/layout.php:131
+msgid "Main Text Color"
+msgstr ""
+
+#: layouts/grid/layout.php:141 layouts/slider/layout.php:132
+msgid "Color of the text inside the box"
+msgstr ""
+
+#: layouts/grid/layout.php:147 layouts/slider/layout.php:138
+msgid "Author Background Color"
+msgstr ""
+
+#: layouts/grid/layout.php:148 layouts/slider/layout.php:139
+msgid "Will only be used in Flat Speech Bubbles Layout"
+msgstr ""
+
+#: layouts/grid/layout.php:153 layouts/slider/layout.php:144
+msgid "Author Text Color"
+msgstr ""
+
+#: layouts/grid/layout.php:154 layouts/slider/layout.php:145
+msgid ""
+"Color of the text inside the box - to be used only for Flat Speech Bubbles "
+"Layout"
+msgstr ""
+
+#: layouts/grid/layout.php:175
+msgid "Visual Settings"
+msgstr ""
+
+#: layouts/grid/layout.php:189 layouts/slider/layout.php:300
+msgid "Aspect of the grid elements"
+msgstr ""
+
+#: layouts/grid/layout.php:193 layouts/slider/layout.php:304
+msgid "Rounded Speech Bubbles"
+msgstr ""
+
+#: layouts/grid/layout.php:194 layouts/slider/layout.php:305
+msgid "Flat Speech Bubbles"
+msgstr ""
+
+#: layouts/grid/layout.php:195 layouts/slider/layout.php:306
+msgid "Flat Card Box"
+msgstr ""
+
+#: layouts/grid/layout.php:196 layouts/slider/layout.php:307
+msgid "Quote Signs"
+msgstr ""
+
+#: layouts/grid/layout.php:197 layouts/slider/layout.php:308
+msgid "Simple Separator"
+msgstr ""
+
+#: layouts/grid/layout.php:205 layouts/slider/layout.php:318
+msgid "Composition"
+msgstr ""
+
+#: layouts/grid/layout.php:206 layouts/slider/layout.php:319
+msgid "Position of the elements"
+msgstr ""
+
+#: layouts/grid/layout.php:210 layouts/slider/layout.php:323
+msgid "Author Below, Text Above"
+msgstr ""
+
+#: layouts/grid/layout.php:211 layouts/slider/layout.php:324
+msgid "Author Above, Text Below"
+msgstr ""
+
+#: layouts/grid/layout.php:212 layouts/slider/layout.php:325
+msgid "Author Left, Text Right"
+msgstr ""
+
+#: layouts/grid/layout.php:213 layouts/slider/layout.php:326
+msgid "Author Right, Text Left"
+msgstr ""
+
+#: layouts/grid/layout.php:217 layouts/slider/layout.php:330
+msgid "Alignment"
+msgstr ""
+
+#: layouts/grid/layout.php:218 layouts/slider/layout.php:331
+msgid "General Alignment of Elements"
+msgstr ""
+
+#: layouts/grid/layout.php:221
+msgid "Left"
+msgstr ""
+
+#: layouts/grid/layout.php:222
+msgid "Right"
+msgstr ""
+
+#: layouts/grid/layout.php:223
+msgid "Center"
+msgstr ""
+
+#: layouts/grid/layout.php:228
+msgid "Columns"
+msgstr ""
+
+#: layouts/grid/layout.php:229
+msgid "Number of columns to display"
+msgstr ""
+
+#: layouts/grid/layout.php:233
+msgid "1 Column"
+msgstr ""
+
+#: layouts/grid/layout.php:234
+msgid "2 Columns"
+msgstr ""
+
+#: layouts/grid/layout.php:235
+msgid "3 Columns"
+msgstr ""
+
+#: layouts/grid/layout.php:236
+msgid "4 Columns"
+msgstr ""
+
+#: layouts/grid/layout.php:237
+msgid "5 Columns"
+msgstr ""
+
+#: layouts/grid/layout.php:238
+msgid "6 Columns"
+msgstr ""
+
+#: layouts/grid/layout.php:259
+msgid "Live Filter"
+msgstr ""
+
+#: layouts/grid/layout.php:260
+msgid "Display a live filter menu (beta feature)"
+msgstr ""
+
+#: layouts/grid/layout.php:264
+msgid "No Filter"
+msgstr ""
+
+#: layouts/grid/layout.php:265
+msgid "Hide Filter"
+msgstr ""
+
+#: layouts/grid/layout.php:266
+msgid "Enhance Filter"
+msgstr ""
+
+#: layouts/grid/layout.php:271 layouts/slider/layout.php:357
+msgid "Short Testimonial Title"
+msgstr ""
+
+#: layouts/grid/layout.php:272
+msgid "Display Short Testimonial title"
+msgstr ""
+
+#: layouts/grid/layout.php:279 layouts/slider/layout.php:365
+msgid "Star Rating"
+msgstr ""
+
+#: layouts/grid/layout.php:280 layouts/slider/layout.php:366
+msgid "Display Star Rating below the author info"
+msgstr ""
+
+#: layouts/grid/layout.php:287 layouts/slider/layout.php:373
+msgid "Display Category"
+msgstr ""
+
+#: layouts/grid/layout.php:288 layouts/slider/layout.php:374
+msgid "Display Category of entry"
+msgstr ""
+
+#: layouts/grid/layout.php:295 layouts/slider/layout.php:381
+msgid "Display Date"
+msgstr ""
+
+#: layouts/grid/layout.php:296 layouts/slider/layout.php:382
+msgid "Display Date of entry"
+msgstr ""
+
+#: layouts/grid/layout.php:303 layouts/slider/layout.php:389
+msgid "Text Content"
+msgstr ""
+
+#: layouts/grid/layout.php:304
+msgid ""
+"What should display in the quote content. Default is \"Short Testimonial\". "
+"The \"Extended Content\" is what would display on the single page."
+msgstr ""
+
+#: layouts/grid/layout.php:308 layouts/slider/layout.php:394 options.php:233
+msgid "Short Testimonial"
+msgstr ""
+
+#: layouts/grid/layout.php:309 layouts/slider/layout.php:395
+msgid "Extended Content"
+msgstr ""
+
+#: layouts/grid/layout.php:310 layouts/slider/layout.php:396
+msgid "Both"
+msgstr ""
+
+#: layouts/grid/layout.php:317 layouts/slider/layout.php:401
+msgid "Char. limit"
+msgstr ""
+
+#: layouts/grid/layout.php:318 layouts/slider/layout.php:402
+msgid ""
+"Number of characters from the testimonial text to display. Leave blank to "
+"display all. Usefull to make slides have the same size, when text has "
+"different lenghts. Shortcodes will be disabeld."
+msgstr ""
+
+#: layouts/grid/layout.php:325 layouts/slider/layout.php:409
+msgid "Cutout text"
+msgstr ""
+
+#: layouts/grid/layout.php:326 layouts/slider/layout.php:410
+msgid ""
+"Text string to display if Char Limit is being used and text has been cut off."
+msgstr ""
+
+#: layouts/grid/layout.php:335 layouts/slider/layout.php:419
+msgid "Read More"
+msgstr ""
+
+#: layouts/grid/layout.php:336 layouts/slider/layout.php:420
+msgid ""
+"Default URL will be to single page of entry. Custom URL option must be set "
+"below. Subtitle URL will be the same as the entry Sub title url field."
+msgstr ""
+
+#: layouts/grid/layout.php:340 layouts/slider/layout.php:424
+msgid "Disabled"
+msgstr ""
+
+#: layouts/grid/layout.php:341 layouts/slider/layout.php:425
+msgid "Default URL"
+msgstr ""
+
+#: layouts/grid/layout.php:342
+msgid "Default URL (Only cutout)"
+msgstr ""
+
+#: layouts/grid/layout.php:344 layouts/slider/layout.php:427
+msgid "Custom URL"
+msgstr ""
+
+#: layouts/grid/layout.php:345 layouts/slider/layout.php:428
+msgid "Subtitle URL field"
+msgstr ""
+
+#: layouts/grid/layout.php:346
+msgid "Display Cut Content Inline"
+msgstr ""
+
+#: layouts/grid/layout.php:347
+msgid "Display Extended Content Inline"
+msgstr ""
+
+#: layouts/grid/layout.php:351 layouts/slider/layout.php:433
+msgid "Custom Read More URL"
+msgstr ""
+
+#: layouts/grid/layout.php:352 layouts/slider/layout.php:434
+msgid ""
+"Place URL here if Custom URL option is chosen above. If left blank, default "
+"single entry URL will be used"
+msgstr ""
+
+#: layouts/grid/layout.php:364 layouts/slider/layout.php:446
+msgid "Image Settings"
+msgstr ""
+
+#: layouts/grid/layout.php:376 layouts/slider/layout.php:458
+msgid "Display Image"
+msgstr ""
+
+#: layouts/grid/layout.php:377 layouts/slider/layout.php:459
+msgid "If disabeled, the settings below will be ignored"
+msgstr ""
+
+#: layouts/grid/layout.php:385 layouts/slider/layout.php:467
+msgid "Image Size"
+msgstr ""
+
+#: layouts/grid/layout.php:386 layouts/slider/layout.php:468
+msgid "You can change the custom sizes in the Settings page"
+msgstr ""
+
+#: layouts/grid/layout.php:389 layouts/slider/layout.php:471
+msgid "Custom Small Size"
+msgstr ""
+
+#: layouts/grid/layout.php:390 layouts/slider/layout.php:472
+msgid "Custom Medium Size"
+msgstr ""
+
+#: layouts/grid/layout.php:391 layouts/slider/layout.php:473
+msgid "Default Thumbnail Size"
+msgstr ""
+
+#: layouts/grid/layout.php:395 layouts/slider/layout.php:477
+msgid "Image Shape"
+msgstr ""
+
+#: layouts/grid/layout.php:396
+msgid "image shape effect"
+msgstr ""
+
+#: layouts/grid/layout.php:400 layouts/slider/layout.php:482
+msgid "Squared"
+msgstr ""
+
+#: layouts/grid/layout.php:401 layouts/slider/layout.php:483
+msgid "Rounded Corners"
+msgstr ""
+
+#: layouts/grid/layout.php:402 layouts/slider/layout.php:484
+msgid "Circular"
+msgstr ""
+
+#: layouts/grid/layout.php:407 layouts/slider/layout.php:489
+msgid "Image Effect"
+msgstr ""
+
+#: layouts/grid/layout.php:408 layouts/slider/layout.php:490
+msgid "image shape description"
+msgstr ""
+
+#: layouts/grid/layout.php:412 layouts/slider/layout.php:494
+msgid "Transparency"
+msgstr ""
+
+#: layouts/grid/layout.php:413 layouts/slider/layout.php:495
+msgid "Grayscale"
+msgstr ""
+
+#: layouts/grid/layout.php:414 layouts/slider/layout.php:496
+msgid "White Border"
+msgstr ""
+
+#: layouts/grid/layout.php:415 layouts/slider/layout.php:497
+msgid "Shadow Highlight"
+msgstr ""
+
+#: layouts/grid/layout.php:421 layouts/slider/layout.php:503
+msgid "Image Link"
+msgstr ""
+
+#: layouts/grid/layout.php:422 layouts/slider/layout.php:504
+msgid ""
+"If active, the image will follow the options chosen in the Advanced URL "
+"settings for each entry"
+msgstr ""
+
+#: layouts/grid/layout.php:429 layouts/slider/layout.php:511
+msgid "Image Size Override"
+msgstr ""
+
+#: layouts/grid/layout.php:430 layouts/slider/layout.php:512
+msgid ""
+"Place new image dimensions in this format: widthXheight. For example: "
+"100x100. It will ignore the image size option and try to redimension the "
+"image to this size."
+msgstr ""
+
+#: layouts/grid/layout.php:489 layouts/slider/layout.php:571
+msgid "Schema to use"
+msgstr ""
+
+#: layouts/grid/layout.php:703 layouts/slider/layout.php:756
+msgid "Posted on: "
+msgstr ""
+
+#: layouts/grid/layout.php:1030 layouts/slider/layout.php:1058
+msgid "ago"
+msgstr ""
+
+#: layouts/slider/layout.php:48
+msgid "Slider Layout"
+msgstr ""
+
+#: layouts/slider/layout.php:49
+msgid ""
+"These options apply only to the Slider layout. Some options are specific to "
+"some layout themes. Read the description to understand what the field "
+"information will be used on."
+msgstr ""
+
+#: layouts/slider/layout.php:87
+msgid ""
+"Image to display when there is not featured image set (If option is active). "
+"<br>You can use the default:"
+msgstr ""
+
+#: layouts/slider/layout.php:113
+msgid "Speech Bubble Text Color"
+msgstr ""
+
+#: layouts/slider/layout.php:151
+msgid "Slider Controls Options"
+msgstr ""
+
+#: layouts/slider/layout.php:157
+msgid "Next Arrow Code"
+msgstr ""
+
+#: layouts/slider/layout.php:158
+msgid ""
+"Code to display for Next Arrow. By Default we use a <a href=\"http://"
+"fontawesome.io/icons/#directional\" target=\"_blank\">Font Awesome Icon</a>."
+msgstr ""
+
+#: layouts/slider/layout.php:164
+msgid "Previous Arrow Code"
+msgstr ""
+
+#: layouts/slider/layout.php:165
+msgid ""
+"Code to display for Previous Arrow. By Default we use a <a href=\"http://"
+"fontawesome.io/icons/#directional\" target=\"_blank\">Font Awesome Icon</a>."
+msgstr ""
+
+#: layouts/slider/layout.php:186
+msgid "Slider Settings"
+msgstr ""
+
+#: layouts/slider/layout.php:198
+msgid "Transition"
+msgstr ""
+
+#: layouts/slider/layout.php:199
+msgid "Slider Transition Effect"
+msgstr ""
+
+#: layouts/slider/layout.php:203
+msgid "Fade"
+msgstr ""
+
+#: layouts/slider/layout.php:204
+msgid "Horizontal Slide"
+msgstr ""
+
+#: layouts/slider/layout.php:205
+msgid "Vertical Slide"
+msgstr ""
+
+#: layouts/slider/layout.php:209
+msgid "Adaptive Height"
+msgstr ""
+
+#: layouts/slider/layout.php:210
+msgid ""
+"Fixed height or adaptive. When fixed, the slider will have the height of the "
+"longest text entry. Setting will be ignored in \"vertical\" transition mode."
+msgstr ""
+
+#: layouts/slider/layout.php:214
+msgid "Fixed"
+msgstr ""
+
+#: layouts/slider/layout.php:215
+msgid "Adaptive"
+msgstr ""
+
+#: layouts/slider/layout.php:227
+msgid "Controls"
+msgstr ""
+
+#: layouts/slider/layout.php:228
+msgid "What kind of controls to display"
+msgstr ""
+
+#: layouts/slider/layout.php:232
+msgid "Pager Circles"
+msgstr ""
+
+#: layouts/slider/layout.php:233
+msgid "Next / Previous Arrows"
+msgstr ""
+
+#: layouts/slider/layout.php:234
+msgid "Play/Pause Controls"
+msgstr ""
+
+#: layouts/slider/layout.php:252
+msgid "Pause Time"
+msgstr ""
+
+#: layouts/slider/layout.php:253
+msgid "Pause time between slides (in ms)"
+msgstr ""
+
+#: layouts/slider/layout.php:260
+msgid "Auto Start"
+msgstr ""
+
+#: layouts/slider/layout.php:261
+msgid "If inactive the sliders will only change if user clicks the controls"
+msgstr ""
+
+#: layouts/slider/layout.php:268
+msgid "Entries"
+msgstr ""
+
+#: layouts/slider/layout.php:269
+msgid "Number of entries to display in each slide"
+msgstr ""
+
+#: layouts/slider/layout.php:273
+msgid "1 Entry"
+msgstr ""
+
+#: layouts/slider/layout.php:274
+msgid "2 Entry"
+msgstr ""
+
+#: layouts/slider/layout.php:275
+msgid "3 Entries"
+msgstr ""
+
+#: layouts/slider/layout.php:276
+msgid "4 Entries"
+msgstr ""
+
+#: layouts/slider/layout.php:288
+msgid "Visual Options"
+msgstr ""
+
+#: layouts/slider/layout.php:358
+msgid "Display Short Testimonial/Review title"
+msgstr ""
+
+#: layouts/slider/layout.php:390
+msgid "What should display in the quote content."
+msgstr ""
+
+#: layouts/slider/layout.php:426
+msgid "Default URL (cutout text)"
+msgstr ""
+
+#: layouts/slider/layout.php:478
+msgid "Image shape effect"
+msgstr ""
+
+#: options.php:24 options.php:1384
+msgid "Testimonial"
+msgstr ""
+
+#: options.php:52
+msgid "Show all"
+msgstr ""
+
+#: options.php:73
+msgid "Image"
+msgstr ""
+
+#: options.php:79
+msgid "Database ID"
+msgstr ""
+
+#: options.php:106 options.php:118
+msgid "%plural%"
+msgstr ""
+
+#: options.php:107
+msgid "%singular%"
+msgstr ""
+
+#: options.php:108
+msgid "All %plural%"
+msgstr ""
+
+#: options.php:109 options.php:110
+msgid "Add New %singular%"
+msgstr ""
+
+#: options.php:111
+msgid "Edit %singular%"
+msgstr ""
+
+#: options.php:112
+msgid "New %singular%"
+msgstr ""
+
+#: options.php:113
+msgid "View %singular%"
+msgstr ""
+
+#: options.php:115
+#, php-format
+msgid "No %singular% found"
+msgstr ""
+
+#: options.php:116
+#, php-format
+msgid "No %singular% found in Trash"
+msgstr ""
+
+#: options.php:117
+msgid "Parent %singular%:"
+msgstr ""
+
+#: options.php:131
+msgid "testimonial"
+msgstr ""
+
+#: options.php:142
+msgid "Advanced URL Image Settings"
+msgstr ""
+
+#: options.php:143
+msgid "Advanced Image URL settings for this entry"
+msgstr ""
+
+#: options.php:149
+msgid "Behavior"
+msgstr ""
+
+#: options.php:151
+msgid "What behavior will the image have?"
+msgstr ""
+
+#: options.php:155
+msgid "Link to Single Page Entry"
+msgstr ""
+
+#: options.php:156
+msgid "Same Link of Subtitle entry"
+msgstr ""
+
+#: options.php:158
+msgid "Open Custom Url in New Page"
+msgstr ""
+
+#: options.php:159
+msgid "Open Custom Url in Same Page"
+msgstr ""
+
+#: options.php:160
+msgid "Open Url in default lightbox"
+msgstr ""
+
+#: options.php:161
+msgid "Open Url in custom lightbox"
+msgstr ""
+
+#: options.php:167 options.php:1383
+msgid "URL"
+msgstr ""
+
+#: options.php:169
+msgid ""
+"<br />Add the custom URL here, if the above selection requires you to do so."
+"<br />\n"
+"\t\t\t\t\t\t\tIf you have another lightbox plugin installed you can use the "
+"custom lightbox option and set the class in the advanced settings.<br />\n"
+"\t\t\t\t\t\t\tUse the default lightbox option with careful. If you have "
+"another lightbox plugin installed, they might be conflictual.<br />\n"
+"\t\t\t\t\t\t\tRead more about how to build links for the lightbox <a href="
+"\"http://cmoreira.net/testimonials-showcase/lightbox\" target=\"_blank"
+"\">here</a>\n"
+"\t\t\t\t\t\t\t"
+msgstr ""
+
+#: options.php:182
+msgid "Extended Page Content"
+msgstr ""
+
+#: options.php:183
+msgid ""
+"If the single page is active you can use the editor below to add content to "
+"the page. If you will not use the single page, you can leave the field blank."
+msgstr ""
+
+#: options.php:190
+msgid "Featured Image for Testimonial"
+msgstr ""
+
+#: options.php:197
+msgid "Testimonial Info"
+msgstr ""
+
+#: options.php:198
+msgid "Additional information for this entry"
+msgstr ""
+
+#: options.php:205
+msgid ""
+"<br />This will display below the Title of the entry. It could be for "
+"example the position or company of the author of this testimonial"
+msgstr ""
+
+#: options.php:209
+msgid "URL for subtitle"
+msgstr ""
+
+#: options.php:211
+msgid ""
+"<br />If you want a link to be added to the sub-title above, you can add it "
+"here"
+msgstr ""
+
+#: options.php:215
+msgid "URL Target"
+msgstr ""
+
+#: options.php:217
+msgid "Target to Open the URL"
+msgstr ""
+
+#: options.php:219
+msgid "New page"
+msgstr ""
+
+#: options.php:220
+msgid "New page (no follow)"
+msgstr ""
+
+#: options.php:221
+msgid "Same Page"
+msgstr ""
+
+#: options.php:226
+msgid "Title for short Testimonial"
+msgstr ""
+
+#: options.php:228
+msgid ""
+"<br />Optional. Title to be added just before the testimonial/review text"
+msgstr ""
+
+#: options.php:235
+msgid "Short Testimonial Text"
+msgstr ""
+
+#: options.php:241
+msgid ""
+"Optional. Only to be used in the layout if choosen to. If you have the Rich "
+"Snippets option active in the settings it's recommended you insert a rating "
+"value"
+msgstr ""
+
+#: options.php:244
+msgid "Ignore"
+msgstr ""
+
+#: options.php:246
+msgid "1 Star"
+msgstr ""
+
+#: options.php:248
+msgid "2 Stars"
+msgstr ""
+
+#: options.php:250
+msgid "3 Stars"
+msgstr ""
+
+#: options.php:252
+msgid "4 Stars"
+msgstr ""
+
+#: options.php:254
+msgid "5 Stars"
+msgstr ""
+
+#: options.php:258 options.php:1387
+msgid "Email"
+msgstr ""
+
+#: options.php:260
+msgid ""
+"For information purposes only. <br />This will not be displayed in the "
+"layout but it might be used to search for a Gravatar if the featured image "
+"is not set."
+msgstr ""
+
+#: options.php:266
+msgid ""
+"This field has no particular purpose, but can be used to grab more custom "
+"information from the users. Label can be defined in the Frontend form "
+"settings"
+msgstr ""
+
+#: options.php:268 options.php:446 options.php:483
+msgid "Yes"
+msgstr ""
+
+#: options.php:269 options.php:447 options.php:484
+msgid "No"
+msgstr ""
+
+#: options.php:284 options.php:285 options.php:1396
+msgid "Category"
+msgstr ""
+
+#: options.php:328
+msgid "Post"
+msgstr ""
+
+#: options.php:328
+msgid "Page"
+msgstr ""
+
+#: options.php:337
+msgid ""
+"This settings will reflect in the shortcodes you create to display the front-"
+"end submission form."
+msgstr ""
+
+#: options.php:340
+msgid ""
+"<br>Seems you are using the Polylang plugin! You can translate the label and "
+"message values in the \"String Translations\" tab of the Polylang settings "
+"page or you can use the following shortcode to display content according to "
+"the language: <br>[tlang is=\"en\"]English Value[/tlang][tlang is=\"it"
+"\"]Italian Value[/tlang]"
+msgstr ""
+
+#: options.php:343
+msgid ""
+"<br>Seems you are using the WPML plugin! You can translate the label and "
+"message values using the \"String Translations\" addon from WPML or you can "
+"use the following shortcode to display content according to the language: "
+"<br>[tlang is=\"en\"]English Value[/tlang][tlang is=\"it\"]Italian Value[/"
+"tlang]"
+msgstr ""
+
+#: options.php:349 options.php:350
+msgid "Settings"
+msgstr ""
+
+#: options.php:354
+msgid "Basic Settings"
+msgstr ""
+
+#: options.php:355
+msgid "Basic settings for the plugin."
+msgstr ""
+
+#: options.php:362
+msgid "<h4>Plugin Naming Related Settings</h4>"
+msgstr ""
+
+#: options.php:368
+msgid "Singular Name"
+msgstr ""
+
+#: options.php:369
+msgid "Singular Name for Plugin Feature"
+msgstr ""
+
+#: options.php:376
+msgid "Plural Name"
+msgstr ""
+
+#: options.php:377
+msgid "Plural Name for Plugin Feature"
+msgstr ""
+
+#: options.php:384
+msgid "Category Menu Name"
+msgstr ""
+
+#: options.php:385
+msgid "Menu Name for Category"
+msgstr ""
+
+#: options.php:393
+msgid "Slug (url text)"
+msgstr ""
+
+#: options.php:394
+msgid ""
+"Url String for This (You might need to re-save the permalink options after "
+"changing this setting)"
+msgstr ""
+
+#: options.php:403
+msgid "<h4>Star Icon Settings</h4>"
+msgstr ""
+
+#: options.php:409
+msgid "Display Empty stars"
+msgstr ""
+
+#: options.php:410
+msgid ""
+"If active empty stars will display in 4 and below ratings, so 5 stars are "
+"always present"
+msgstr ""
+
+#: options.php:418
+msgid "<h4>Small Thumbnail Settings</h4>"
+msgstr ""
+
+#: options.php:424
+msgid "Small Thumbnail Width"
+msgstr ""
+
+#: options.php:425 options.php:434 options.php:462 options.php:471
+msgid "Thumbnail size in pixels"
+msgstr ""
+
+#: options.php:433
+msgid "Small Thumbnail Height"
+msgstr ""
+
+#: options.php:442
+msgid "Small Thumbnail Crop"
+msgstr ""
+
+#: options.php:443 options.php:480
+msgid "Do you want the thumbnail to be cropped when uploaded?"
+msgstr ""
+
+#: options.php:455
+msgid "<h4>Normal Thumbnail Settings</h4>"
+msgstr ""
+
+#: options.php:461
+msgid "Thumbnail Width"
+msgstr ""
+
+#: options.php:470
+msgid "Thumbnail Height"
+msgstr ""
+
+#: options.php:479
+msgid "Thumbnail Crop"
+msgstr ""
+
+#: options.php:491
+msgid "<h4>Single Page Settings</h4>"
+msgstr ""
+
+#: options.php:505
+msgid "Display short testimonial"
+msgstr ""
+
+#: options.php:506
+msgid "If active the testimonial entry will also display in the single page"
+msgstr ""
+
+#: options.php:513
+msgid "Theme Template"
+msgstr ""
+
+#: options.php:514
+msgid ""
+"<br>The way this option works will also depend on your theme. The default "
+"template is the Post template, but many themes display extra meta "
+"information on post pages such as \"posted by\" or \"post date\" "
+"information, which may not be desired. Usually, page templates contain the "
+"essential information. If you choose \"Pages\" then the testimonials will be "
+"shown using your theme default page template. <strong>Be aware that some "
+"themes will not work with this option</strong>, if so (or you want to make a "
+"custom page), you can create a file named <code>single-ttshowcase.php</code> "
+"<a href=\"http://codex.wordpress.org/Post_Types#Template_Files\">as shown on "
+"the wordpress codex</a>, and leave this set to Posts."
+msgstr ""
+
+#: options.php:522
+msgid "<h4>Pagination Labels Settings</h4>"
+msgstr ""
+
+#: options.php:528
+msgid "Next Label"
+msgstr ""
+
+#: options.php:529
+msgid "Next Page link label"
+msgstr ""
+
+#: options.php:535
+msgid "Previous Label"
+msgstr ""
+
+#: options.php:536
+msgid "Previous page link label"
+msgstr ""
+
+#: options.php:542
+msgid "<h4>Date Settings</h4>"
+msgstr ""
+
+#: options.php:548
+msgid "Date Format"
+msgstr ""
+
+#: options.php:549
+msgid "Date format for the testiminials layouts, when displayed"
+msgstr ""
+
+#: options.php:553
+msgid "WordPress Default"
+msgstr ""
+
+#: options.php:562
+msgid "Custom Date Format"
+msgstr ""
+
+#: options.php:563
+msgid "Documentation here: http://codex.wordpress.org/Formatting_Date_and_Time"
+msgstr ""
+
+#: options.php:578
+msgid ""
+"<a href=\"https://support.google.com/webmasters/answer/99170\" target="
+"\"_blank\">Rich Snippets</a> provide meta data about your page to the search "
+"engines. <br />\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\tIf you are using the STAR RATING option for your "
+"entries, you can activate the Rich Snippets so Review or Aggregate Review "
+"information will be included in the code. <br />\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\tThe code will follow the <a href=\"http://schema."
+"org/\" target=\"_blank\">Schema.org</a> formats."
+msgstr ""
+
+#: options.php:585
+msgid "<strong>Attention!</strong>"
+msgstr ""
+
+#: options.php:586
+msgid ""
+"Rich Snippets will work better if only 1 shortcode on the page will render "
+"the metadata. If there are multiple aggregate ratings metadata, rich "
+"snippets will not work as expected. <a href=\"http://cmoreira.net/"
+"testimonials-showcase/rich-snippets/\" target=\"_blank\">More information "
+"about this</a>. <br> You can override the settings below via shortcode also."
+msgstr ""
+
+#: options.php:591
+msgid "Activate Rich Snippets in single pages"
+msgstr ""
+
+#: options.php:592
+msgid ""
+"If active Schema.org Review data will be added to the single page for the "
+"entries"
+msgstr ""
+
+#: options.php:599
+msgid "Activate Rich Snippets in shortcodes"
+msgstr ""
+
+#: options.php:600
+msgid ""
+"If active Schema.org Aggregate Review data will be added to the layouts "
+"generated by shortcodes"
+msgstr ""
+
+#: options.php:607
+msgid "<strong>Product or Service being reviewed</strong>"
+msgstr ""
+
+#: options.php:608
+msgid ""
+"The search engines need to know what is being reviewed. Use one of the two "
+"options below to define what product or service is being reviewed. In "
+"addition, you can also set a custom product/service name for each layout you "
+"create with the shortcode generator."
+msgstr ""
+
+#: options.php:614
+msgid "Use Groups as products"
+msgstr ""
+
+#: options.php:615
+msgid ""
+"Enable this option if you want the plugin to interpret the categories as "
+"products to include the information on the Rich Snippets. It will only work "
+"when the layout created is only displaying entries from a specific category. "
+"The default entry defined below will be ignored."
+msgstr ""
+
+#: options.php:622
+msgid "Default Product name"
+msgstr ""
+
+#: options.php:623
+msgid ""
+"Default product name to be used in the rich snippets information, in case "
+"the categories are off or do not exist, or the product information for the "
+"entry is empty."
+msgstr ""
+
+#: options.php:628
+msgid "Schema.org type"
+msgstr ""
+
+#: options.php:629
+msgid ""
+"The default is http://schema.org/Product but you can use other schema.org "
+"types."
+msgstr ""
+
+#: options.php:635
+msgid "Display advanced options in Shortcode Generator"
+msgstr ""
+
+#: options.php:636
+msgid ""
+"If enabled, more options will display in the shortcode generator, in the "
+"Rich Snippets section."
+msgstr ""
+
+#: options.php:648
+msgid "Front-End Form"
+msgstr ""
+
+#: options.php:655
+msgid "<h4>Field Labels</h4>"
+msgstr ""
+
+#: options.php:660
+msgid "Name Label"
+msgstr ""
+
+#: options.php:661
+msgid "Text to display for the title input"
+msgstr ""
+
+#: options.php:669
+msgid "Subtitle Label"
+msgstr ""
+
+#: options.php:670
+msgid "Text to display for the subtitle information input"
+msgstr ""
+
+#: options.php:677
+msgid "URL Label"
+msgstr ""
+
+#: options.php:678
+msgid "Text to display for the URL input"
+msgstr ""
+
+#: options.php:685
+msgid "Testimonial Title Label"
+msgstr ""
+
+#: options.php:686
+msgid "Text to display for the Testimonial Title input option"
+msgstr ""
+
+#: options.php:693
+msgid "Testimonial Label"
+msgstr ""
+
+#: options.php:694
+msgid "Text to display for the Testimonial textarea option"
+msgstr ""
+
+#: options.php:701
+msgid "Long Testimonial Label"
+msgstr ""
+
+#: options.php:702
+msgid ""
+"Text to display for the Long Testimonial textarea option (single page "
+"content)"
+msgstr ""
+
+#: options.php:709
+msgid "Rating Label"
+msgstr ""
+
+#: options.php:710
+msgid "Text to display for the Rating option"
+msgstr ""
+
+#: options.php:718
+msgid "Rating Type Singular Label"
+msgstr ""
+
+#: options.php:719
+msgid "Text to display for singular rating identification (ex.: Star)"
+msgstr ""
+
+#: options.php:727
+msgid "Rating Type Plural Label"
+msgstr ""
+
+#: options.php:728
+msgid "Text to display for singular rating identification (ex.: Stars)"
+msgstr ""
+
+#: options.php:735
+msgid "Default Rating"
+msgstr ""
+
+#: options.php:736
+msgid "Initial selected rating value"
+msgstr ""
+
+#: options.php:740
+msgid "0"
+msgstr ""
+
+#: options.php:742
+msgid "1"
+msgstr ""
+
+#: options.php:744
+msgid "2"
+msgstr ""
+
+#: options.php:746
+msgid "3"
+msgstr ""
+
+#: options.php:748
+msgid "4"
+msgstr ""
+
+#: options.php:750
+msgid "5"
+msgstr ""
+
+#: options.php:755
+msgid "Email Label"
+msgstr ""
+
+#: options.php:756
+msgid "Text to display for the Email input"
+msgstr ""
+
+#: options.php:766
+msgid "Human Verification Label"
+msgstr ""
+
+#: options.php:767
+msgid "Text to display for Human math problem verification"
+msgstr ""
+
+#: options.php:776
+msgid "Image Label"
+msgstr ""
+
+#: options.php:777
+msgid "Text to display for the Image input"
+msgstr ""
+
+#: options.php:785
+msgid "Category Label"
+msgstr ""
+
+#: options.php:786
+msgid "Text to display for the category dropdown input"
+msgstr ""
+
+#: options.php:794
+msgid "Yes/No Field Label"
+msgstr ""
+
+#: options.php:795
+msgid ""
+"Text to display for a custom boolean dropdown field. This field will not be "
+"available to display on the layouts. It is just for information gathering "
+"purposes. For example, to know if user allows publication of submission or "
+"if he wants to be added to newsletter."
+msgstr ""
+
+#: options.php:804
+msgid "Submit Button Label"
+msgstr ""
+
+#: options.php:805
+msgid "Text to display on the submit button"
+msgstr ""
+
+#: options.php:807
+msgid "Submit Entry"
+msgstr ""
+
+#: options.php:814
+msgid "Fields order"
+msgstr ""
+
+#: options.php:815
+msgid ""
+"Order the fields will display in the form. Drag & drop to re-order them."
+msgstr ""
+
+#: options.php:822
+msgid "Mandatory fields"
+msgstr ""
+
+#: options.php:823
+msgid "Select the fields you want to be mandatory."
+msgstr ""
+
+#: options.php:829
+msgid "Text to append to mandatory fields"
+msgstr ""
+
+#: options.php:830
+msgid "Text to display after the mandatory fields labels"
+msgstr ""
+
+#: options.php:832
+msgid "(required)"
+msgstr ""
+
+#: options.php:841
+msgid "<h4>Confirmation and Email Settings </h4>"
+msgstr ""
+
+#: options.php:850
+msgid "Thank You Message"
+msgstr ""
+
+#: options.php:851
+msgid ""
+"Text to display after the user submits the form. Will only display if the "
+"\"Confirmation Page\" field is empty."
+msgstr ""
+
+#: options.php:853
+msgid ""
+"Thank you for submitting your testimonial! It is now awaiting approval from "
+"the site administrator. Thank you!"
+msgstr ""
+
+#: options.php:858
+msgid "Ajax Submission"
+msgstr ""
+
+#: options.php:859
+msgid ""
+"If enabled, the form data will be processed without reloading the page. "
+"Confirmation URL cannot be used with this method."
+msgstr ""
+
+#: options.php:865
+msgid "Confirmation Page"
+msgstr ""
+
+#: options.php:866
+msgid ""
+"If you want the user to be redirected to a specific URL instead of "
+"displaying the above message, place the URL here. If there is an URL in this "
+"field the message above will be ignored and the user will be redirected to "
+"the page you have set here."
+msgstr ""
+
+#: options.php:871
+msgid "Force Page Refresh"
+msgstr ""
+
+#: options.php:872
+msgid ""
+"If active and the confirmation page URL does not exist, the submission page "
+"will refresh, displaying both the success message and the form again. This "
+"takes more resources, but could be usefull when using the testimonials "
+"layout on the same page with auto-approval."
+msgstr ""
+
+#: options.php:878
+msgid "Global Error Message"
+msgstr ""
+
+#: options.php:879
+msgid "Message to display when an error occurs."
+msgstr ""
+
+#: options.php:881
+msgid "The entry was not submitted. Check the form for errors."
+msgstr ""
+
+#: options.php:886
+msgid "Error for mandatory empty fields"
+msgstr ""
+
+#: options.php:887
+msgid ""
+"This message will be used for most fields, when they are mandatory and are "
+"left empty."
+msgstr ""
+
+#: options.php:889
+msgid "This field is required"
+msgstr ""
+
+#: options.php:893
+msgid "Error for email"
+msgstr ""
+
+#: options.php:894
+msgid "Invalid email message"
+msgstr ""
+
+#: options.php:896
+msgid "Invalid email value"
+msgstr ""
+
+#: options.php:900
+msgid "Error for image"
+msgstr ""
+
+#: options.php:901
+msgid "Invalid or empty image message"
+msgstr ""
+
+#: options.php:903
+msgid "Invalid or empty image"
+msgstr ""
+
+#: options.php:907
+msgid "Error for Yes/No"
+msgstr ""
+
+#: options.php:908
+msgid "When this field is mandatory and is left unchecked"
+msgstr ""
+
+#: options.php:910
+msgid "Please review this field."
+msgstr ""
+
+#: options.php:914
+msgid "Human Verification Error"
+msgstr ""
+
+#: options.php:915
+msgid "When user fails the human verification problem solving"
+msgstr ""
+
+#: options.php:917
+msgid "Please insert the correct answer"
+msgstr ""
+
+#: options.php:925
+msgid "Non-logged users message"
+msgstr ""
+
+#: options.php:926
+msgid ""
+"Message to display to non logged users if you make the form available only "
+"to logged users"
+msgstr ""
+
+#: options.php:928
+msgid "You need to be a registered user to submit entries."
+msgstr ""
+
+#: options.php:936
+msgid "Send Notification Email"
+msgstr ""
+
+#: options.php:937
+msgid "Send new entry notification email to site administrator"
+msgstr ""
+
+#: options.php:943
+msgid "Send Email to"
+msgstr ""
+
+#: options.php:944
+msgid "Notification email will be sent to this address"
+msgstr ""
+
+#: options.php:949
+msgid "Notification Email Subject"
+msgstr ""
+
+#: options.php:950
+msgid "Notification email subject"
+msgstr ""
+
+#: options.php:952
+msgid "New Testimonial for Review"
+msgstr ""
+
+#: options.php:955
+msgid "Notification Email Message"
+msgstr ""
+
+#: options.php:956
+msgid ""
+"Message to be sent when new testimonial has been submited. Template tags can "
+"be used:<br> {title} - Name of entry author<br>{admin_url} - Link to the "
+"edit and approval page for this entry<br> {text} - Entry submitted text<br> "
+"{rating} - Rating for this entry <br> {email} - Email field information<br> "
+"{taxonomy} - Taxonomies (groups) information<br> {boolean} - Yes/No custom "
+"field information"
+msgstr ""
+
+#: options.php:958
+msgid ""
+"New Testimonial entry from: {title}. <br /> <a href=\"{admin_url}\">Approve "
+"or Delete Entry</a>"
+msgstr ""
+
+#: options.php:962
+msgid "<h4>Spam Prevention</h4>"
+msgstr ""
+
+#: options.php:968
+msgid "Human Verification on logged users"
+msgstr ""
+
+#: options.php:969
+msgid ""
+"If active, the human control field, if chosen to display, will also display "
+"to logged users"
+msgstr ""
+
+#: options.php:975
+msgid "Honeypot Spam prevention"
+msgstr ""
+
+#: options.php:976
+msgid ""
+"If active, a hidden field will be included in the form, that should be empty "
+"on submission. If it has a value, it most likely means the form is being "
+"submitted by a robot."
+msgstr ""
+
+#: options.php:982
+msgid "Use Akismet"
+msgstr ""
+
+#: options.php:983
+msgid ""
+"When enabled, Akismet will be used to filter the valid submissions. If they "
+"are considered spam they will be stored, but in the trash, they will not be "
+"published and they won't trigger the notification email. This will only work "
+"if you have Akismet plugin enabled with a valid API key."
+msgstr ""
+
+#: options.php:990
+msgid "<h4>Publish Status Settings</h4>"
+msgstr ""
+
+#: options.php:995
+msgid "Default Status of Submissions"
+msgstr ""
+
+#: options.php:996
+msgid ""
+"<br>Chose if you want the entries to be automatically published or to stay "
+"pending review, until the admin decides to publish them"
+msgstr ""
+
+#: options.php:1000
+msgid "Pending Review - Administrator will need to approve entry"
+msgstr ""
+
+#: options.php:1001
+msgid "Published - Entries will be automatically visible"
+msgstr ""
+
+#: options.php:1008
+msgid "Advanced Settings"
+msgstr ""
+
+#: options.php:1009
+msgid "Advanced settings for the plugin."
+msgstr ""
+
+#: options.php:1014
+msgid "Custom CSS"
+msgstr ""
+
+#: options.php:1015
+msgid ""
+"Add custom CSS here. It will be added to the page where the layout will "
+"display"
+msgstr ""
+
+#: options.php:1023
+msgid "Custom JS"
+msgstr ""
+
+#: options.php:1024
+msgid ""
+"Add custom javascript code here. It will be added to the page where the "
+"layouts will display"
+msgstr ""
+
+#: options.php:1030
+msgid "Load Custom CSS & JS for Forms"
+msgstr ""
+
+#: options.php:1031
+msgid ""
+"If active, the above custom CSS and javascript will also load on pages where "
+"the frontend submission form is being used"
+msgstr ""
+
+#: options.php:1039
+msgid "Exclude from Search"
+msgstr ""
+
+#: options.php:1040
+msgid "Exclude entries from general search results"
+msgstr ""
+
+#: options.php:1048
+msgid "Use Gravatar"
+msgstr ""
+
+#: options.php:1049
+msgid ""
+"If entry doesn't have a featured image but has an email, the plugin will "
+"check with the Gravatar service if there is a profile image set for that "
+"email."
+msgstr ""
+
+#: options.php:1054
+msgid "Force Height Output"
+msgstr ""
+
+#: options.php:1055
+msgid ""
+"Some avatar images might not output the height parameter. If you want to "
+"force the height parameter to display, check this box. Will use more server "
+"load (to calculate proper image height)"
+msgstr ""
+
+#: options.php:1061
+msgid "Render Shortcodes"
+msgstr ""
+
+#: options.php:1062
+msgid ""
+"If disabled shortcodes won't be rendered inside the testimonials text entries"
+msgstr ""
+
+#: options.php:1068
+msgid "Render Smiles"
+msgstr ""
+
+#: options.php:1069
+msgid ""
+"If enabled and the emoticons are also enabled on \"Settings > Writting > "
+"Formatting\" it will convert emoticons like :-) and :-P to graphics on "
+"display"
+msgstr ""
+
+#: options.php:1075
+msgid "Custom Lightbox Class attribute"
+msgstr ""
+
+#: options.php:1076
+msgid ""
+"If you are using a custom lightbox plugin, place here the class name the "
+"links should have so the lightbox initiates."
+msgstr ""
+
+#: options.php:1082
+msgid "Custom Lightbox rel attribute"
+msgstr ""
+
+#: options.php:1083
+msgid ""
+"If you are using a custom lightbox plugin, place here the content for the "
+"attribute rel=\"\" the links should have so the lightbox initiates."
+msgstr ""
+
+#: options.php:1089
+msgid "Elements of Quote block"
+msgstr ""
+
+#: options.php:1090
+msgid ""
+"Which elements to display inside quote block (Inside Speech Bubble).<br> "
+"Available template tags: {quote},{read_more},{review_title},{author},{stars},"
+"{date},{subtitle},{category}"
+msgstr ""
+
+#: options.php:1097
+msgid "Elements of Info block"
+msgstr ""
+
+#: options.php:1098
+msgid ""
+"Which elements to display inside info block (Together with Image).<br> "
+"Available template tags: {quote},{read_more},{review_title},{author},{stars},"
+"{date},{subtitle},{category}"
+msgstr ""
+
+#: options.php:1104
+msgid "Render Shortcode Layout on Single Page"
+msgstr ""
+
+#: options.php:1105
+msgid ""
+"If you want to render for example a speech bubble layout on the single page, "
+"inclue the \"options:\" parameter of a shortcode here. For example:<br>\n"
+"\t\t\t\t\t\t\t\t\ttheme:speech,info-position:info-left,text-alignment:left,"
+"columns:1,display-image:on,image-size:ttshowcase_small,image-shape:circle,"
+"image-effect:none,image-link:on"
+msgstr ""
+
+#: options.php:1115
+msgid "Help! FAQ"
+msgstr ""
+
+#: options.php:1116
+msgid ""
+"If you're having any problem with the plugin you can read the full list of "
+"Frequently asked questions in the <a href=\"http://codecanyon.net/item/"
+"testimonials-showcase-wordpress-plugin/6588139/support\" target=\"_blank"
+"\">Official FAQ page of the plugin</a>. <h3>CSS Tips & Tricks</h3> You can "
+"also check some CSS tips on the <a href=\"http://cmoreira.net/testimonials-"
+"showcase/custom-css/\" target=\"_blank\">official plugin site</a>.<br><br> "
+"<h2>The read more link / single page entry are not working! What can I do?</"
+"h2><br>If when you open a single page it returns a \"Page Not Found\" error, "
+"it's possible that the permalinks are not working well. Go on Settings > "
+"Permalinks and save the settings again, even without any changes. This will "
+"make the permalinks option update.<br><br>Another possible problem is "
+"conflict of slugs. If you have a page with the same ‘slug’ (permalink name) "
+"of the Testimonials Showcase (default is \"testimonials\"), the single pages "
+"might not work properly. You will have to change or the slug of the page/"
+"post or the slug of the Testimonials Showcase entries, in the plugin "
+"settings page and resave the permalinks again. <br> <br> "
+msgstr ""
+
+#: options.php:1158
+msgid "Available Generators:"
+msgstr ""
+
+#: options.php:1162
+msgid "Layout: Simple Query"
+msgstr ""
+
+#: options.php:1163 options.php:1293
+msgid ""
+"This will generate a layout for the Testimonials. You have some simple "
+"options to perform a query to choose which entries to display"
+msgstr ""
+
+#: options.php:1168 options.php:1211 options.php:1282 options.php:1300
+msgid "What you want to display"
+msgstr ""
+
+#: options.php:1169 options.php:1212 options.php:1283 options.php:1301
+msgid "How you want to display it"
+msgstr ""
+
+#: options.php:1170 options.php:1213 options.php:1284 options.php:1302
+msgid "You can use the shortcode on your post, pages and text widgets"
+msgstr ""
+
+#: options.php:1171
+msgid ""
+"This is a php function to run this shortcode. You can use it directly in the "
+"Theme files"
+msgstr ""
+
+#: options.php:1172 options.php:1215 options.php:1286 options.php:1304
+msgid "Shortcode"
+msgstr ""
+
+#: options.php:1173 options.php:1216 options.php:1287 options.php:1305
+msgid "Preview"
+msgstr ""
+
+#: options.php:1174 options.php:1217 options.php:1306
+msgid ""
+"This is a preview only. Once you place the shortcode on your page, it might "
+"look different since it will be integrated with your layout and some CSS of "
+"your theme or other plugins might affect the way the layout looks like."
+msgstr ""
+
+#: options.php:1175 options.php:1307
+msgid "Light Background"
+msgstr ""
+
+#: options.php:1176 options.php:1308
+msgid "Dark Background"
+msgstr ""
+
+#: options.php:1181 options.php:1313
+msgid "Filter entries with term chosen."
+msgstr ""
+
+#: options.php:1188 options.php:1249 options.php:1320
+msgid "Order By"
+msgstr ""
+
+#: options.php:1189 options.php:1250 options.php:1321
+msgid "Paramater to order the entries with"
+msgstr ""
+
+#: options.php:1192 options.php:1239 options.php:1324
+msgid "Limit"
+msgstr ""
+
+#: options.php:1193 options.php:1240
+msgid "Number of entries to display. Leave blank or 0 to display all."
+msgstr ""
+
+#: options.php:1197 options.php:1244
+msgid "Pagination"
+msgstr ""
+
+#: options.php:1198 options.php:1245
+msgid ""
+"Display pagination Below the layout (Limit number of entries should be set "
+"above)"
+msgstr ""
+
+#: options.php:1205
+msgid "Layout: Advanced Query"
+msgstr ""
+
+#: options.php:1206
+msgid ""
+"Advanced Shortcode Generator. You have more advanced options to perform a "
+"query to choose which entries to display"
+msgstr ""
+
+#: options.php:1214 options.php:1285 options.php:1303
+msgid ""
+"Click here to get the PHP function. You can use it directly in the Theme "
+"files"
+msgstr ""
+
+#: options.php:1221
+msgid "Select Multiple"
+msgstr ""
+
+#: options.php:1222
+msgid "Filter entries with terms chosen"
+msgstr ""
+
+#: options.php:1233
+msgid "Relation"
+msgstr ""
+
+#: options.php:1234
+msgid "Relation to use when filtering chosen terms above."
+msgstr ""
+
+#: options.php:1253
+msgid "IDs to display"
+msgstr ""
+
+#: options.php:1254
+msgid ""
+"Comma sperated ID values of specific entries you want to display. Example: "
+"7,11. Leave blank or 0 to display all"
+msgstr ""
+
+#: options.php:1258
+msgid "Search for term"
+msgstr ""
+
+#: options.php:1259
+msgid ""
+"Search for a term in the title and content of the entry. Leave blank to "
+"ignore this field."
+msgstr ""
+
+#: options.php:1262
+msgid "Extensive Search for term"
+msgstr ""
+
+#: options.php:1263
+msgid ""
+"Search for a term in the title, content and all aditional information "
+"fields. Leave blank to ignore this field."
+msgstr ""
+
+#: options.php:1266
+msgid "Publish Status"
+msgstr ""
+
+#: options.php:1267
+msgid "Publish status of entries"
+msgstr ""
+
+#: options.php:1273
+msgid "Front-end Submission Form"
+msgstr ""
+
+#: options.php:1274
+msgid ""
+"Shortcode generator to display a front-end submission form. After generating "
+"the shortcode you can place it in a page and forward your users there to "
+"submit their own entries."
+msgstr ""
+
+#: options.php:1288
+msgid ""
+"This is a preview only. The forms might look slightly different when applied "
+"to your page. Usually the themes have their own form styles and when you "
+"place the shortcode in your page, the form might inherit the available form "
+"styles from your theme."
+msgstr ""
+
+#: options.php:1292
+msgid "Average Rating Info"
+msgstr ""
+
+#: options.php:1325
+msgid "Number of entries to display"
+msgstr ""
+
+#: options.php:1378
+msgid "Continue Reading"
+msgstr ""
+
+#: options.php:1379
+msgid "Name"
+msgstr ""
+
+#: options.php:1380
+msgid "Position"
+msgstr ""
+
+#: options.php:1381
+msgid "Your country and time of visit"
+msgstr ""
+
+#: options.php:1382
+msgid "Company"
+msgstr ""
+
+#: options.php:1386
+msgid "Rate"
+msgstr ""
+
+#: options.php:1388
+msgid "Thank you for submitting your message!"
+msgstr ""
+
+#: options.php:1389
+msgid "The testimonial was not submitted. Check the form for errors."
+msgstr ""
+
+#: options.php:1390
+msgid "Submit"
+msgstr ""
+
+#: options.php:1391
+msgid "Testimonial Title"
+msgstr ""
+
+#: options.php:1392
+msgid "Your Image"
+msgstr ""
+
+#: options.php:1393
+msgid "Star"
+msgstr ""
+
+#: options.php:1394
+msgid "Stars"
+msgstr ""
+
+#: options.php:1395
+msgid "Are you Human?"
+msgstr ""
+
+#: options.php:1397
+msgid "How did you visit us?"
+msgstr ""
+
+#: options.php:1398
+msgid "You need to be a registred user to submit entries"
+msgstr ""
+
+#: options.php:1399
+msgid " Please insert the correct answer"
+msgstr ""
+
+#: options.php:1400
+msgid " Please enter a valid name"
+msgstr ""
+
+#: options.php:1401
+msgid " Please enter a valid email"
+msgstr ""
+
+#: options.php:1402
+msgid "New Testimonial to Review"
+msgstr ""
+
+#: options.php:1403
+msgid " Please enter a valid testimonial"
+msgstr ""
+
+#: ttshowcase.php:327
+msgid "Insert previously saved Testimonials Shortcode"
+msgstr ""
+
+#: ttshowcase.php:401
+msgid "There were no arguments supplied for this shortcode"
+msgstr ""
+
+#: ttshowcase.php:611
+msgid "Review"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Testimonials Showcase"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.cmoreira.net/testimonials-showcase"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin allows you to create and display testimonials, quotes, reviews "
+"or case studies in multiple ways"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Carlos Moreira"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://cmoreira.net"
+msgstr ""

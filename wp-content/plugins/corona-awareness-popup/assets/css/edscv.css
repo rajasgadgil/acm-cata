@@ -1,0 +1,86 @@
+.edscv-popup.edscv-popup-hidden {
+    display: none;
+}
+.edscv-popup{
+    position: fixed;
+    width: 100vw;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 999999;
+}
+.edscv-popup-overlay{
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.7);
+}
+.edscv-popup-body{
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width: calc(100% - 20px);
+    max-width: 900px;
+    margin-left: -450px;
+    background: #fff;
+    border-radius: 10px;
+    overflow-x: hidden;
+    margin-top: 20px;
+    max-height: calc(100vh - 40px);
+    overflow-y: auto;
+}
+.edscv-close-popup-btn{
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 0;
+    width: 40px;
+    height: 40px;
+    color: #111;
+    background: #FFF;
+    text-align: center;
+    line-height: 36px;
+    border-radius: 50%;
+    margin-right: 10px;
+    margin-top: 10px;
+    text-decoration: none;
+    font-size: 22px;
+    opacity: 0.5;
+    transition: opacity 0.2s ease-out;
+    z-index: 99;
+}
+.edscv-close-popup-btn:hover, .edscv-close-popup-btn:active, .edscv-close-popup-btn:focus{
+    opacity: 1;
+    transition: opacity 0.2s ease-out;
+}
+.edscv-popup-image{
+    font-size: 0;
+    line-height: 0;
+    text-align: center;
+}
+.edscv-popup-content, .edscv-popup-footer{
+    padding: 20px;
+    box-sizing: border-box;
+}
+.edscv-popup-footer > a{
+    display: inline-block;
+    width: 150px;
+    text-align: center;
+    line-height: 40px;
+    text-decoration: none;
+    color: #FFF;
+    background: #111;
+    border-radius: 10px;
+    opacity: 1;
+    transition: opacity 0.2s ease-out;
+}
+.edscv-popup-footer > a:hover, .edscv-popup-footer > a:active, .edscv-popup-footer > a:focus{
+    opacity: 0.7;
+}
+
+@media only screen and (max-width: 950px) {
+    .edscv-popup-body{
+        width: calc(100% - 20px);
+        margin-left: 10px;
+        left: 0;
+    }
+}

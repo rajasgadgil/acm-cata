@@ -1,0 +1,596 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Deposits\n"
+"POT-Creation-Date: 2017-05-03 16:27+0300\n"
+"PO-Revision-Date: 2017-07-05 17:57+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Last-Translator: \n"
+"Language: fr_FR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-wc-deposits-cart-manager.php:167
+msgid "Please select a valid payment plan"
+msgstr "Merci de sélectionner un échéancier de paiement correct"
+
+#: includes/class-wc-deposits-cart-manager.php:282
+#: includes/class-wc-deposits-plans-admin.php:131
+#: includes/class-wc-deposits-settings.php:106
+#: includes/views/html-deposit-data.php:64
+#: includes/views/html-payment-plan-form.php:5
+msgid "Payment Plan"
+msgstr "Echéancier de paiement"
+
+#: includes/class-wc-deposits-cart-manager.php:335
+#, php-format
+msgid "%s payable in total"
+msgstr "%s à payer au total"
+
+#: includes/class-wc-deposits-cart-manager.php:358
+#: includes/class-wc-deposits-order-manager.php:549
+msgid "(includes tax)"
+msgstr "(Taxes incluses)"
+
+#: includes/class-wc-deposits-cart-manager.php:358
+#: includes/class-wc-deposits-order-manager.php:549
+msgid "(excludes tax)"
+msgstr "(hors taxes)"
+
+#: includes/class-wc-deposits-cart-manager.php:367
+msgid "Due Today"
+msgstr "A payer aujourd’hui"
+
+#: includes/class-wc-deposits-cart-manager.php:371
+#: includes/class-wc-deposits-order-manager.php:554
+#: includes/class-wc-deposits-order-manager.php:559
+msgid "Future Payments"
+msgstr "Paiements futurs"
+
+#: includes/class-wc-deposits-cart-manager.php:434
+msgid "Select options"
+msgstr "Sélectionner une option"
+
+#: includes/class-wc-deposits-order-manager.php:83
+#: includes/class-wc-deposits-order-manager.php:114
+msgctxt "Order status"
+msgid "Partially Paid"
+msgstr "Payé partiellement"
+
+#: includes/class-wc-deposits-order-manager.php:88
+#, php-format
+msgid "Partially Paid <span class=\"count\">(%s)</span>"
+msgid_plural "Partially Paid <span class=\"count\">(%s)</span>"
+msgstr[0] "Payé partiellement  <span class=\"count\">(%s)</span>"
+msgstr[1] "Payés partiellement <span class=\"count\">(%s)</span>"
+
+#: includes/class-wc-deposits-order-manager.php:91
+#: includes/class-wc-deposits-order-manager.php:115
+msgctxt "Order status"
+msgid "Scheduled"
+msgstr "Programmé"
+
+#: includes/class-wc-deposits-order-manager.php:96
+#, php-format
+msgid "Scheduled <span class=\"count\">(%s)</span>"
+msgid_plural "Scheduled <span class=\"count\">(%s)</span>"
+msgstr[0] "Programmé  <span class=\"count\">(%s)</span>"
+msgstr[1] "Programmés <span class=\"count\">(%s)</span>"
+
+#: includes/class-wc-deposits-order-manager.php:99
+#: includes/class-wc-deposits-order-manager.php:116
+msgctxt "Order status"
+msgid "Pending Deposit Payment"
+msgstr "En attente de l’acompte"
+
+#: includes/class-wc-deposits-order-manager.php:104
+#, php-format
+msgid "Pending Deposit Payment <span class=\"count\">(%s)</span>"
+msgid_plural "Pending Deposits Payment <span class=\"count\">(%s)</span>"
+msgstr[0] "Acompte en attente  <span class=\"count\">(%s)</span>"
+msgstr[1] "Acomptes en attente  <span class=\"count\">(%s)</span>"
+
+#: includes/class-wc-deposits-order-manager.php:199
+msgid "All deposit items fully paid"
+msgstr "Tous les acomptes payés intégralement"
+
+#: includes/class-wc-deposits-order-manager.php:221
+#, php-format
+msgid "Error: Unable to create follow up payment (%s)"
+msgstr "Erreur impossible de créer les paiements suivants (%s)"
+
+#: includes/class-wc-deposits-order-manager.php:258
+#, php-format
+msgid "Payment #%d for %s"
+msgstr "Paiement de #%d de %s"
+
+#: includes/class-wc-deposits-order-manager.php:284
+msgid "Full Amount"
+msgstr "Montant total"
+
+#: includes/class-wc-deposits-order-manager.php:287
+msgid "Full Amount (excl. tax)"
+msgstr "Montant total (hors taxes)"
+
+#: includes/class-wc-deposits-order-manager.php:321
+#: includes/class-wc-deposits-order-manager.php:469
+msgid "Deposit"
+msgstr "Acompte"
+
+#: includes/class-wc-deposits-order-manager.php:337
+msgid "View Scheduled Payments"
+msgstr "Voir les paiement programmés"
+
+#: includes/class-wc-deposits-order-manager.php:346
+#: includes/class-wc-deposits-order-manager.php:485
+#, php-format
+msgid "Remainder - Invoice #%1$s"
+msgstr "Voir la commande #%1$s"
+
+#: includes/class-wc-deposits-order-manager.php:348
+#, php-format
+msgid "The remaining balance of %s (plus tax) for this item was paid offline."
+msgstr ""
+"Le solde restant de %s (plus taxes) pour ce produit a été payé en dehors du "
+"site."
+
+#: includes/class-wc-deposits-order-manager.php:349
+msgid "Unmark as Paid"
+msgstr "Ne plus considérer payé"
+
+#: includes/class-wc-deposits-order-manager.php:352
+msgid "Invoice Remaining Balance"
+msgstr "Facture restant due"
+
+#: includes/class-wc-deposits-order-manager.php:353
+msgid "Mark Paid (offline)"
+msgstr "Marqué payé (en dehors du site)"
+
+#: includes/class-wc-deposits-order-manager.php:358
+msgid "View Original Order"
+msgstr "Voir la commande originale"
+
+#: includes/class-wc-deposits-order-manager.php:487
+#, php-format
+msgid "The remaining balance of %s for this item was paid offline."
+msgstr "Le solde restant de %s pour ce produit a été payé en dehors du site."
+
+#: includes/class-wc-deposits-order-manager.php:571
+msgid "Payable in Total"
+msgstr "A payer totalement"
+
+#: includes/class-wc-deposits-order-manager.php:576
+msgid "Total Due Today:"
+msgstr "Montant total à payer :"
+
+#: includes/class-wc-deposits-plan.php:163
+#, php-format
+msgid "%s year"
+msgid_plural "%s years"
+msgstr[0] "%s année"
+msgstr[1] "%s années"
+
+#: includes/class-wc-deposits-plan.php:166
+#, php-format
+msgid "%s month"
+msgid_plural "%s months"
+msgstr[0] "%s mois"
+msgstr[1] "%s mois"
+
+#: includes/class-wc-deposits-plan.php:169
+#, php-format
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] "jour"
+msgstr[1] "%s jours"
+
+#: includes/class-wc-deposits-plan.php:173
+#, php-format
+msgid "%1$s payable over %2$s"
+msgstr "%1$s payable sur %2$s"
+
+#: includes/class-wc-deposits-plan.php:175
+#, php-format
+msgid "%1$s total payable"
+msgstr "%1$s payable au total"
+
+#: includes/class-wc-deposits-plans-admin.php:38
+msgid ""
+"Are you sure you want to delete this plan? This action cannot be undone."
+msgstr "Vous êtes certain de vouloir supprimer cet échéancier ? (définitif)"
+
+#: includes/class-wc-deposits-plans-admin.php:47
+#: includes/views/html-deposit-data.php:109
+#: includes/views/html-payment-plans.php:2
+msgid "Payment Plans"
+msgstr "Echéanciers de paiement"
+
+#: includes/class-wc-deposits-plans-admin.php:73
+msgid "Plan saved successfully"
+msgstr "Echéancier enregistré avec succès"
+
+#: includes/class-wc-deposits-plans-admin.php:81
+msgid "Plan deleted successfully"
+msgstr "Echéancier supprimé avec succès"
+
+#: includes/class-wc-deposits-plans-admin.php:127
+msgid "Unable to save payment plan - please try again"
+msgstr "Impossible de sauvegarder cet échéancier - veuillez réessayer."
+
+#: includes/class-wc-deposits-plans-admin.php:162
+msgid "Unable to save payment plan"
+msgstr "Impossible de sauvegarder cet échéancier"
+
+#: includes/class-wc-deposits-product-manager.php:106
+msgid "person"
+msgstr "personne"
+
+#: includes/class-wc-deposits-product-manager.php:108
+msgid "item"
+msgstr "produit réservé"
+
+#: includes/class-wc-deposits-product-manager.php:112
+#, php-format
+msgid "Pay a %1$s deposit per %2$s"
+msgstr "Vous devrez payer %1$s d'acompte par %2$s"
+
+#: includes/class-wc-deposits-product-manager.php:114
+#, php-format
+msgid "Pay a deposit of %1$s per %2$s"
+msgstr "Payer un acompte de %1$s sur %2$s"
+
+#: includes/class-wc-deposits-scheduled-order-manager.php:100
+msgid "Scheduled order ready for payment."
+msgstr "Commande programmée prête pour le paiement."
+
+#: includes/class-wc-deposits-settings.php:48
+#: includes/views/html-deposits-tab.php:1
+msgid "Deposits"
+msgstr "Acomptes"
+
+#: includes/class-wc-deposits-settings.php:75
+msgid "Storewide Deposits Configuration"
+msgstr "Configurer l'acompte pour toute la boutique"
+
+#: includes/class-wc-deposits-settings.php:77
+msgid ""
+"These settings affect all products storewide. You can override these "
+"settings on a per product basis to make exceptions."
+msgstr ""
+"Ces paramètres affecteront l'ensemble des produits de la boutique. Vous "
+"pouvez modifier un par un dans la configuration produit cependant."
+
+#: includes/class-wc-deposits-settings.php:82
+msgid "Enable Deposits by Default"
+msgstr "Autoriser les acomptes par défaut"
+
+#: includes/class-wc-deposits-settings.php:84
+msgid "You must set a default amount below if setting this option to \"yes\"."
+msgstr ""
+"Vous devez définir un montant par défaut si l'option est positionnée sur "
+"\"Oui\"."
+
+#: includes/class-wc-deposits-settings.php:89
+#: includes/views/html-deposit-data.php:47
+msgid "Yes - deposits are optional"
+msgstr "Oui - les échéanciers sont optionnels"
+
+#: includes/class-wc-deposits-settings.php:90
+#: includes/views/html-deposit-data.php:48
+msgid "Yes - deposits are required"
+msgstr "Oui - les échéanciers sont obligatoires"
+
+#: includes/class-wc-deposits-settings.php:91
+#: includes/views/html-deposit-data.php:49
+msgid "No"
+msgstr "Non"
+
+#: includes/class-wc-deposits-settings.php:96
+msgid "Default Deposit Type"
+msgstr "Type d'échéancier par défaut"
+
+#: includes/class-wc-deposits-settings.php:98
+msgid "The default way for customers to pay for this product using a deposit."
+msgstr ""
+"La façon par défaut dont les clients vont payer le produit en utilisant "
+"l'échéancier."
+
+#: includes/class-wc-deposits-settings.php:103
+msgid "None"
+msgstr "Aucun"
+
+#: includes/class-wc-deposits-settings.php:104
+#: includes/views/html-deposit-data.php:62
+msgid "Percentage"
+msgstr "Pourcentage"
+
+#: includes/class-wc-deposits-settings.php:105
+#: includes/views/html-deposit-data.php:63
+msgid "Fixed Amount"
+msgstr "Montant fixe"
+
+#: includes/class-wc-deposits-settings.php:111
+msgid "Default Deposit Amount"
+msgstr "Montant d'acompte par défaut"
+
+#: includes/class-wc-deposits-settings.php:113
+msgid "The default deposit amount."
+msgstr "Le montant d'acompte par défaut."
+
+#: includes/class-wc-deposits-settings.php:115
+msgid "n/a"
+msgstr "n/a"
+
+#: includes/class-wc-deposits-settings.php:121
+#: includes/views/html-deposit-data.php:89
+msgid "Default Deposit Selected Type"
+msgstr "Type d'échéancier par défaut sélectionné"
+
+#: includes/class-wc-deposits-settings.php:123
+msgid ""
+"The default selected way for customers to pay for this product using a "
+"deposit."
+msgstr ""
+"La façon dont les clients vont payer le produit en utilisant l'échéancier "
+"selectionné."
+
+#: includes/class-wc-deposits-settings.php:128
+#: includes/views/html-deposit-data.php:93 templates/deposit-form.php:11
+msgid "Pay Deposit"
+msgstr "Payer l'acompte"
+
+#: includes/class-wc-deposits-settings.php:129
+#: includes/views/html-deposit-data.php:94 templates/deposit-form.php:17
+msgid "Pay in Full"
+msgstr "Payer totalement"
+
+#: includes/class-wc-deposits-settings.php:134
+msgid "Default Payment Plan"
+msgstr "Echéancier de paiement"
+
+#: includes/class-wc-deposits-settings.php:138
+msgid "The default payment plans to use."
+msgstr "L'échéancier de paiement par défaut à utiliser."
+
+#: includes/class-wc-deposits-settings.php:146
+msgid "Disable Payment Gateways"
+msgstr "Ne pas autoriser les paiements tiers"
+
+#: includes/class-wc-deposits-settings.php:150
+msgid ""
+"Select payment gateways that should be disabled when accepting deposits."
+msgstr ""
+
+#: includes/list-tables/class-wc-deposits-plans-table.php:41
+msgid "Edit"
+msgstr "Modifier"
+
+#: includes/list-tables/class-wc-deposits-plans-table.php:41
+msgid "Delete"
+msgstr "Supprimer"
+
+#: includes/list-tables/class-wc-deposits-plans-table.php:71
+msgid "Name"
+msgstr "Nom"
+
+#: includes/list-tables/class-wc-deposits-plans-table.php:72
+msgid "Description"
+msgstr "Description de l'échéancier"
+
+#: includes/list-tables/class-wc-deposits-plans-table.php:73
+msgid "Schedule"
+msgstr "Programmé"
+
+#: includes/views/html-deposit-data.php:5
+msgid "Inherit storewide settings"
+msgstr "Paramètres hérités de la boutique"
+
+#: includes/views/html-deposit-data.php:9
+msgid "percent"
+msgstr "pourcent"
+
+#: includes/views/html-deposit-data.php:12
+msgid "fixed amount"
+msgstr "montant fixe"
+
+#: includes/views/html-deposit-data.php:15
+msgid "payment plan"
+msgstr "échéancier de paiement"
+
+#: includes/views/html-deposit-data.php:18
+msgid "none"
+msgstr "aucun"
+
+#: includes/views/html-deposit-data.php:23
+msgid "yes, optional"
+msgstr "oui, option"
+
+#: includes/views/html-deposit-data.php:26
+msgid "yes, required"
+msgstr "oui, obligatoire"
+
+#: includes/views/html-deposit-data.php:29
+msgid "no"
+msgstr "non"
+
+#: includes/views/html-deposit-data.php:34
+msgid "pay deposit"
+msgstr "payer l'acompte"
+
+#: includes/views/html-deposit-data.php:37
+msgid "pay in full"
+msgstr "payer la totalité"
+
+#: includes/views/html-deposit-data.php:43
+msgid "Enable Deposits"
+msgstr "Autoriser les acomptes"
+
+#: includes/views/html-deposit-data.php:44
+msgid "Specify if users can pay a deposit for this product."
+msgstr ""
+"Préciser si les utilisateurs peuvent utiliser un échéancier pour ce produit."
+
+#: includes/views/html-deposit-data.php:58
+msgid "Deposit Type"
+msgstr "Type d'échéancier"
+
+#: includes/views/html-deposit-data.php:59
+msgid "Choose how customers can pay for this product using a deposit."
+msgstr ""
+"Choisir comment vos clients peuvent payer ce produit en utilisant un "
+"échéancier."
+
+#: includes/views/html-deposit-data.php:73
+msgid "Booking Persons"
+msgstr "Réservations"
+
+#: includes/views/html-deposit-data.php:74
+msgid "Multiply fixed deposits by the number of persons booking"
+msgstr ""
+"Multiplication des montants fixes d'acomptes par les personnes qui ont "
+"acheté"
+
+#: includes/views/html-deposit-data.php:80
+msgid "Deposit Amount"
+msgstr "Montant d'acompte"
+
+#: includes/views/html-deposit-data.php:82
+msgid ""
+"The amount of deposit needed. Do not include currency or percent symbols."
+msgstr ""
+"Le montant de l'acompte attendu. Ne pas inclure la devise ou les "
+"pourcentages."
+
+#: includes/views/html-deposit-data.php:90
+msgid "Choose the default selected type of payment on page load."
+msgstr "Choisir le type de paiement par défaut au chargement de la page."
+
+#: includes/views/html-deposit-data.php:114
+msgid "You have not created any payment plans yet."
+msgstr "Vous n'avez créé aucun échéancier de paiement pour le moment."
+
+#: includes/views/html-deposit-data.php:115
+msgid "Create a Payment Plan"
+msgstr "Créer un échéancier"
+
+#: includes/views/html-deposit-data.php:118
+msgid "Choose some plans"
+msgstr "Choisir plusieurs échéanciers"
+
+#: includes/views/html-deposit-data.php:128
+msgid "Choose which payment plans customers can use for this product."
+msgstr ""
+"Choisir l'échéancier que les clients pourront utiliser pour ce produit."
+
+#: includes/views/html-deposit-data.php:136
+#, php-format
+msgid "The following plans will be used if  no payment plan is selected: %s."
+msgstr ""
+"L'échéancier suivant doit être utilisé si aucun échéancier n'est "
+"sélectionné : %s."
+
+#: includes/views/html-edit-payment-plan.php:2
+msgid "Edit Payment Plan"
+msgstr "Modifier l'échéancier de paiement"
+
+#: includes/views/html-payment-plan-form.php:4
+msgid "Plan Name"
+msgstr "Nom de l'échéancier"
+
+#: includes/views/html-payment-plan-form.php:8
+msgid "Plan Description"
+msgstr "Description de l'échéancier"
+
+#: includes/views/html-payment-plan-form.php:9
+msgid "Describe this plan to the customer"
+msgstr "Décrire cet échéancier aux clients"
+
+#: includes/views/html-payment-plan-form.php:14
+#: includes/views/html-payment-plan-form.php:37
+#: includes/views/html-payment-plan-form.php:60
+msgid "Days"
+msgstr "Jours"
+
+#: includes/views/html-payment-plan-form.php:15
+#: includes/views/html-payment-plan-form.php:61
+msgid "Weeks"
+msgstr "Semaines"
+
+#: includes/views/html-payment-plan-form.php:16
+#: includes/views/html-payment-plan-form.php:37
+#: includes/views/html-payment-plan-form.php:62
+msgid "Months"
+msgstr "Mois"
+
+#: includes/views/html-payment-plan-form.php:17
+#: includes/views/html-payment-plan-form.php:37
+#: includes/views/html-payment-plan-form.php:63
+msgid "Years"
+msgstr "Années"
+
+#: includes/views/html-payment-plan-form.php:22
+#: includes/views/html-payment-plan-form.php:57
+msgid "After"
+msgstr "Après"
+
+#: includes/views/html-payment-plan-form.php:28
+msgid "Payment Schedule"
+msgstr "Calendrier de Paiement"
+
+#: includes/views/html-payment-plan-form.php:31
+msgid "Payment Amount"
+msgstr "Montant du paiement"
+
+#: includes/views/html-payment-plan-form.php:31
+msgid "This is the amount (in percent) based on the full product price."
+msgstr ""
+"Ceci est le  montant (en pourcentage) basé sur le prix total du produit."
+
+#: includes/views/html-payment-plan-form.php:32
+msgid "Interval"
+msgstr "Intervalle"
+
+#: includes/views/html-payment-plan-form.php:32
+msgid "This is the interval between each payment."
+msgstr "Ceci est l'intervalle entre chaque paiement."
+
+#: includes/views/html-payment-plan-form.php:36
+msgid "Total:"
+msgstr "Total :"
+
+#: includes/views/html-payment-plan-form.php:37
+msgid "Total Duration:"
+msgstr "Durée Totale :"
+
+#: includes/views/html-payment-plan-form.php:52
+msgid "Immediately"
+msgstr "Immédiatement"
+
+#: includes/views/html-payment-plan-form.php:72
+msgid "Save Payment Plan"
+msgstr "Sauvegarder l'échéancier"
+
+#: includes/views/html-payment-plans.php:6
+msgid "Existing Payment Plans"
+msgstr "Echéanciers existants"
+
+#: includes/views/html-payment-plans.php:12
+msgid "Add Payment Plan"
+msgstr "Ajouter un échéancier"
+
+#: woocommmerce-deposits.php:111
+msgid "Docs"
+msgstr "Documents"
+
+#: woocommmerce-deposits.php:112
+msgid "Premium Support"
+msgstr "Support premium"

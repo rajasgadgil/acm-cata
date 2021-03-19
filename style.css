@@ -1,0 +1,110 @@
+﻿/*
+	Theme Name: Adventure Tours Child
+	Theme URI: http://themeforest.net/user/themedelight/portfolio
+	Description: Adventure Tours child theme
+	Template: adventure-tours
+	Version: 1.0.0
+*/
+
+
+/**
+ * Modification placement des icones Bateaux sur étiquettes Home et transparence
+ */
+
+.atgrid__item__icons i {
+	display:none	
+}
+.atgrid__item__icons {
+    left: 30px;
+	bottom: 45px;
+}
+/* cacher les icones sur les visuels cata */
+.atgrid__item__price {
+ opacity:0.9
+}
+
+
+/* hide SKU on product meta section */
+.product_meta .sku_wrapper {
+	display:none;
+}
+
+/* hide product categories on product meta section */
+.product_meta .Category {
+	display:none;
+}
+
+/* hide product tags on product meta section */
+.product_meta .tag {
+	display:none;
+}
+
+/* masquer le prix des variations woocommerce */
+.woocommerce div.product p.price,.woocommerce div.product span.price{
+	color:#77a464;
+	font-size:1.25em;
+	display:none
+}
+
+/* masquer à l'ancienne le demander 30% d'acompte - woocommerce deposit */ 
+.wc-deposits-wrapper .wc-deposits-payment-description {
+    color: #fff;
+    margin: -2em;
+        margin-top: -2em;
+        margin-right: -2em;
+        margin-bottom: -2em;
+        margin-left: -2em;
+}
+
+/* masquer le rappel des catégories sous les produits */
+.woocommerce div.product-box table.product_meta th, .woocommerce div.product-box table.product_meta td {
+    padding: 10px 20px;
+    border: none;
+    display: none;
+}
+/* changer la couleur de fond du cliquez ici du blanc au rose */
+input, textarea {
+    background: #e4dddd;
+    border: 1px solid #e3e3e3;
+    border-radius: 3px;
+}
+
+/* classe tabulation  */
+.tabul {
+margin-left: 5em;
+}
+
+/**
+ * Changer le lien retourner à la boutique après panier vide par retour à la home ou visite Caraïbes
+ *
+ * @return string
+function wc_empty_cart_redirect_url() {
+	return 'https://acm-caraibes.com/les-caraibes/';
+}
+add_filter( 'woocommerce_return_to_shop_redirect', 'wc_empty_cart_redirect_url' );
+ */
+
+
+
+/* Masquer les infos complémentaires prix  */
+.atlist__item__price-label {
+    display: none;
+}
+
+/* Masquer la zone de texte dans les menus déroulants choix bateau */
+.woocommerce-page .select2-search input, .woocommerce .select2-search input {
+    margin: 0;
+    line-height: normal;
+    display: none;
+}
+/*couleur spéciale du menu */
+.menunoir {
+   background:#0A2A12;
+    opacity:0.5
+}
+/*couleur spéciale du menu  Promo*/
+.menubleu {
+   background:#0378b5;
+    opacity:0.7
+}
+
